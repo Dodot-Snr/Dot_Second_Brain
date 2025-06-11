@@ -1,0 +1,597 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1748673071183,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1748673071183,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1748673085567,
+              "path": "Second-Brain4Career/Notes - Messages For Commit Git.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1748673085567,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1748676930386,
+                  "path": "Second-Brain4Career/ALL FOLDER/ALL FOLDER.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1748673100961,
+                  "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/GIT AND GITHUB MASTERY.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1748673100961,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1748674598077,
+                      "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/GIT AND GITHUB MASTERY.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1748674598077,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1748674631226,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1 Introduction to Version Control.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676019180,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.1 Understanding Version Control Systems (VCS).md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676091897,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.2 Centralized vs Distributed VSC.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676094313,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.3 Benefits of Using Git.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676097169,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.4 Git’s Core Concepts⁚ Repositories, Commits, Branches.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676099683,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.5 Installing Git on Different Operating System.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676102034,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.6 Configuring Git⁚ User Information, Editor, Aliases.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748674634363,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2 Basic Git Commands.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676813088,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.1 Initializing a Repositories⁚ ‘git init’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676813088,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.1 Initializing a Repositories⁚ ‘git init’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676815727,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.2 Staging Changes⁚ ‘git add'.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676818071,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.3 Committing Changes⁚ ‘git commit’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676818071,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.3 Committing Changes⁚ ‘git commit’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676820766,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.4 Viewing Commit History⁚ ‘git log’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676823622,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.5 Checking File Status⁚ ‘git status’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676823622,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.5 Checking File Status⁚ ‘git status’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676825982,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.6 Ignoring Files⁚ ‘gitgnore’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676825982,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.6 Ignoring Files⁚ ‘gitgnore’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748676828293,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.7 Undoing Changes⁚ ‘git checkout’, ‘git revert’, ‘git reset’.md",
+                          "subpath": "#^-"
+                        },
+                        {
+                          "type": "file",
+                          "ctime": 1748674638499,
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.3 Branching and Merging.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "1_GIT FUNDAMENTALS"
+                    }
+                  ],
+                  "title": "GIT AND GITHUB MASTERY"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1749013053130,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1749013053130,
+                      "path": "Second-Brain4Career/ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY/ADVANCED GIT AND GITHUB MASTERY.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749013053130,
+                      "items": [],
+                      "title": "1_GIT FUNDAMENTEL"
+                    }
+                  ],
+                  "title": "ADVANCED GIT AND GITHUB MASTERY"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1749115967202,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1749115967202,
+                      "path": "Second-Brain4Career/ALL FOLDER/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/ADVANCED GIT AND GITHUB FOR LINUX MASTERY.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "1_GIT INTERNALS AND ARCHITECTURES"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "2_ADVANCED BRANCHING AND MERGING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "3_COLLABORATION AND REMOTE WORKFLOWS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "4_GIT HOOKS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "5_ADVANCED GIT COMMANDS AND TECHNIQUES"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "6_PERFORMANCE OPTIMIZATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "7_SECURITY BEST PRACTICES"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "8_GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "9_GITHUB ADVANCED FEATURES"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "10_GIT AND DEVOPS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "11_TROUBLESHOOTING AND RECOVERY"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749115967202,
+                      "items": [],
+                      "title": "12_SCRIPTING AND AUTOMATION WITH GIT"
+                    }
+                  ],
+                  "title": "ADVANCED GIT AND GITHUB FOR LINUX MASTERY"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1749325887118,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1749325908043,
+                      "path": "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/DOTFILES GIT FOR LINUX.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "1_FUNDAMENTELS OF DOTFILES"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "2_GIT BASICS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "3_DOTFILES REPOSITORY SETUP"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "4_MANAGING DOTFILES WITH GIT"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "5_ADVANCED GIT TECHNIQUES"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "7_DOTFILES MANAGERS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "8_SHELL SCRIPTING FOR DOTFILES"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "9_SECURITY CONSIDERATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749325912179,
+                      "items": [],
+                      "title": "10_ADVANCED TOPICS"
+                    }
+                  ],
+                  "title": "DOTFILES GIT FOR LINUX"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1749327689821,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1749327689821,
+                      "path": "Second-Brain4Career/ALL FOLDER/LINUX MASTERY⁚ A BEGINNER’S GUIDE/LINUX MASTERY⁚ A BEGINNER’S GUIDE.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749327689821,
+                      "items": [],
+                      "title": "1_FUNDAMENTALS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749327689821,
+                      "items": [],
+                      "title": "2_SYSTEM ADMINISTRATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749327689821,
+                      "items": [],
+                      "title": "3_NETWORKING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749327689821,
+                      "items": [],
+                      "title": "4_SECURITY"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749327689821,
+                      "items": [],
+                      "title": "5_SCRIPTING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749327689821,
+                      "items": [],
+                      "title": "6_SYSTEM MONITORING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749327689821,
+                      "items": [],
+                      "title": "7_ADVANCE TOPICS"
+                    }
+                  ],
+                  "title": "LINUX MASTERY⁚ A BEGINNER’S GUIDE"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1749393699573,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1749393699573,
+                      "path": "Second-Brain4Career/ALL FOLDER/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "1_LINUX FUNDAMENTALS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "2_SYSTEM ADMINISTRATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "3_ADVANCE COMMAND LINE"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "4_KERNAL AND HARDWARE"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "5_NETWORKING DEEP DIVE"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "6_AUTOMATIUON AND ORCHESTRATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "7_PERFORMANCE TUNING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "8_SECURITY HARDENING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "9_HIGH AVAILABLITY AND CLUSTURING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "10_VIRTUALIZATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749393699573,
+                      "items": [],
+                      "title": "11_CLOUD COMPUTING"
+                    }
+                  ],
+                  "title": "ADVANCE LINUX MASTERY"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1749394442692,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1749394442692,
+                      "path": "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "1_LINUX FUNDAMENTALS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "2_SYSTEM CONFIGURATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "3_PACKAGE  MANAGEMENT"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "4_DESKTOP ENVIROMENT CUSTOMIZATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "5_SECURITY HARDENING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "6_NETWORKING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "7_SYSTEM MONITORING AND TUNING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "8_AUTOMATION AND SCRIPTING"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "9_VIRTULIZATION AND CONTAINERIZATION"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "10_FILE SYSTEM AND STORAGE"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1749394442692,
+                      "items": [],
+                      "title": "11_TROUBLESHOOTING AND DEBUGGING"
+                    }
+                  ],
+                  "title": "DEEP MASTERY CUSTOMIZE LINUX"
+                }
+              ],
+              "title": "ALL FOLDER"
+            },
+            {
+              "type": "file",
+              "ctime": 1748673085567,
+              "path": "Second-Brain4Career/README.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1748673085567,
+              "path": "Second-Brain4Career/Welcome.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Second-Brain4Career"
+        },
+        {
+          "type": "file",
+          "ctime": 1748673071183,
+          "path": "Example.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1748673071183,
+          "path": "Untitled Kanban.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

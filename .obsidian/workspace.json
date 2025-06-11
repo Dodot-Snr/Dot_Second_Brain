@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "b9376b35ce8a10fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a6775b1c5f6a183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec97358106a35147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Second-Brain4Career/ALL FOLDER/ALL FOLDER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ALL FOLDER"
+            }
+          },
+          {
+            "id": "4f1bb6790391b91f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORSHIP AND THE PRAYERS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WORSHIP AND THE PRAYERS"
+            }
+          },
+          {
+            "id": "c4c0ba23eee6ea8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0202f736bf0521ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d214987bddd6100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd9658eaa489a5cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3df6dc5db757b2c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "~~",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c28c1097cc46234",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5124969482422
+  },
+  "right": {
+    "id": "e7bbb0209364c9bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d1fe98c866e0f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0af2e6a16788bbf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DEEP MASTERY CUSTOMIZE LINUX"
+            }
+          },
+          {
+            "id": "bd755ef0bd656f36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eff15f419b9465c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DEEP MASTERY CUSTOMIZE LINUX"
+            }
+          },
+          {
+            "id": "f9770a3372c8ee49",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "98388cf672ef073a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "c4c0ba23eee6ea8d",
+  "lastOpenFiles": [
+    "The Ninth Word.md",
+    "WORSHIP AND THE PRAYERS.md",
+    "The Fourth Word - The Prescribed Prayers.md",
+    "Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇.md",
+    "Second-Brain4Career/ALL FOLDER/ALL FOLDER.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.2 Manual Deployment.md",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/2_SYSTEM CONFIGURATION/2.3 Kernel Customization.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/5_ADVANCED GIT TECHNIQUES/5.2 Git Hooks.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/4_MANAGING DOTFILES WITH GIT/4.2 Adding and Committing Dotfiles.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.1.1 Understanding Submodules.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.2.4 Restoring Dotfiles from Backup.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.2.3 Creating Backup Copies.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.2.2 Using Symbolic Links Manually.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.2.1 Copying Dotfiles Manually.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.1 Git Submodules and Subtrees.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.1.6 Adding Subtrees to Your Dotfiles Repository.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.1.5 Understanding Subtrees.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.1.4 Removing Submodules.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.1.3 Updating Submodules.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.1.2 Adding Submodules to Your Dotfiles Repository.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/5_ADVANCED GIT TECHNIQUES/5.1.1 Creating Brench for Experimentation.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/5_ADVANCED GIT TECHNIQUES/5.2.7 Managing Hooks with a Hook Manager.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/5_ADVANCED GIT TECHNIQUES/5.2.6 Custom Hook Scripts.md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/5_ADVANCED GIT TECHNIQUES/5.2.5 Post-Commit Hooks (e.g., Deployment).md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/5_ADVANCED GIT TECHNIQUES/5.2.4 Pre-Commit Hooks (e.g., Linting, Formatting).md",
+    "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/5_ADVANCED GIT TECHNIQUES/5.2.3 Using Hooks for Automation.md",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/11_TROUBLESHOOTING AND DEBUGGING",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/10_FILE SYSTEM AND STORAGE",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/9_VIRTULIZATION AND CONTAINERIZATION",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/8_AUTOMATION AND SCRIPTING",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/7_SYSTEM MONITORING AND TUNING",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/6_NETWORKING",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/5_SECURITY HARDENING",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/4_DESKTOP ENVIROMENT CUSTOMIZATION",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/3_PACKAGE  MANAGEMENT",
+    "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/2_SYSTEM CONFIGURATION"
+  ]
+}
