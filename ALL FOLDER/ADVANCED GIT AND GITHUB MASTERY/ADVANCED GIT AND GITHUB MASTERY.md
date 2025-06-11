@@ -1,7 +1,7 @@
 1. GIT FUNDAMENTEL
 	- [[1.1 Core Concepts]]
-	- [[ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY/1_GIT FUNDAMENTEL/1.2 Basic Git Commands]]
-	- [[ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY/1_GIT FUNDAMENTEL/1.3 Branching and Merging]]
+	- [[ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.2 Basic Git Commands]]
+	- [[ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3 Branching and Merging]]
 	- [[1.4 Undoing Changes]]
 	- [[1.5 Working with Remotes]]
 2. ADVANCED GIT TECHNIQUES
@@ -27,7 +27,7 @@
 	- [[5.1 Choosing a Workflow]]
 	- [[5.2 Global Configuration]]
 	- [[5.3 Repository Configuration]]
-	- [[ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY/5_GIT CONFIGURATION/5.4 Git Attributes]]
+	- [[ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY/005 GIT CONFIGURATION/5.4 Git Attributes]]
 	- [[5.5 Git Aliases]]
 	- [[5.6 SSH Keys]]
 6. ADVANCES GITHUB FEATURES
