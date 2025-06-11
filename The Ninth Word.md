@@ -24,3 +24,5 @@ Also, the infinite treasury of dominicality's mercy requires that the servant ma
 Just as man is an example in miniature of the greater world and Sura al-Fatiha a shining sample of the Qur'an of Mighty Stature, so are the prescribed prayers a comprehensive, luminous index of all varieties of worship, and a sacred map pointing to all the shades of worship of all the classes of creatures.
 
 ### Fourth Point
+
+asdkfhjas;lckvjapserui vawpsuopaosdfvhna[wsovhapsxcvhnapsodvhans[dovascpvZXC]]
