@@ -39,14 +39,14 @@
             "id": "c4c0ba23eee6ea8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "The Ninth Word.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Second-Brain4Career",
+                "bFile": "Second-Brain4Career",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "The Ninth Word"
+              "icon": "diff",
+              "title": "Diff: Second-Brain4Career"
             }
           }
         ],
@@ -157,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Ninth Word.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Ninth Word"
+              "title": "Outline"
             }
           },
           {
@@ -196,11 +195,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c4c0ba23eee6ea8d",
+  "active": "fd9658eaa489a5cd",
   "lastOpenFiles": [
+    "The Ninth Word.md",
     "Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇.md",
     "WORSHIP AND THE PRAYERS.md",
-    "The Ninth Word.md",
     "The Fourth Word - The Prescribed Prayers.md",
     "Second-Brain4Career/ALL FOLDER/ALL FOLDER.md",
     "Second-Brain4Career/ALL FOLDER/DOTFILES GIT FOR LINUX/6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION/6.2 Manual Deployment.md",

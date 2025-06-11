@@ -47,125 +47,125 @@
                         {
                           "type": "file",
                           "ctime": 1748674631226,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1 Introduction to Version Control.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1 Introduction to Version Control.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676019180,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.1 Understanding Version Control Systems (VCS).md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.1 Understanding Version Control Systems (VCS).md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676091897,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.2 Centralized vs Distributed VSC.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.2 Centralized vs Distributed VSC.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676094313,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.3 Benefits of Using Git.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.3 Benefits of Using Git.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676097169,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.4 Git’s Core Concepts⁚ Repositories, Commits, Branches.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.4 Git’s Core Concepts⁚ Repositories, Commits, Branches.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676099683,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.5 Installing Git on Different Operating System.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.5 Installing Git on Different Operating System.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676102034,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.1.6 Configuring Git⁚ User Information, Editor, Aliases.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.6 Configuring Git⁚ User Information, Editor, Aliases.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748674634363,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2 Basic Git Commands.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2 Basic Git Commands.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676813088,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.1 Initializing a Repositories⁚ ‘git init’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.1 Initializing a Repositories⁚ ‘git init’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676813088,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.1 Initializing a Repositories⁚ ‘git init’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.1 Initializing a Repositories⁚ ‘git init’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676815727,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.2 Staging Changes⁚ ‘git add'.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.2 Staging Changes⁚ ‘git add'.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676818071,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.3 Committing Changes⁚ ‘git commit’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.3 Committing Changes⁚ ‘git commit’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676818071,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.3 Committing Changes⁚ ‘git commit’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.3 Committing Changes⁚ ‘git commit’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676820766,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.4 Viewing Commit History⁚ ‘git log’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.4 Viewing Commit History⁚ ‘git log’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676823622,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.5 Checking File Status⁚ ‘git status’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.5 Checking File Status⁚ ‘git status’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676823622,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.5 Checking File Status⁚ ‘git status’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.5 Checking File Status⁚ ‘git status’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676825982,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.6 Ignoring Files⁚ ‘gitgnore’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.6 Ignoring Files⁚ ‘gitgnore’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676825982,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.6 Ignoring Files⁚ ‘gitgnore’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.6 Ignoring Files⁚ ‘gitgnore’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748676828293,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.2.7 Undoing Changes⁚ ‘git checkout’, ‘git revert’, ‘git reset’.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.7 Undoing Changes⁚ ‘git checkout’, ‘git revert’, ‘git reset’.md",
                           "subpath": "#^-"
                         },
                         {
                           "type": "file",
                           "ctime": 1748674638499,
-                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/1_GIT FUNDAMENTALS/1.3 Branching and Merging.md",
+                          "path": "Second-Brain4Career/ALL FOLDER/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.3 Branching and Merging.md",
                           "subpath": "#^-"
                         }
                       ],
-                      "title": "1_GIT FUNDAMENTALS"
+                      "title": "001 GIT FUNDAMENTALS"
                     }
                   ],
                   "title": "GIT AND GITHUB MASTERY"
