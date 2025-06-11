@@ -157,27 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md",
+                "file": "Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DEEP MASTERY CUSTOMIZE LINUX"
+              "title": "Outline of Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇"
             }
           },
           {
-            "id": "f9770a3372c8ee49",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "98388cf672ef073a",
+            "id": "d679895c2cf7e441",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -187,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
