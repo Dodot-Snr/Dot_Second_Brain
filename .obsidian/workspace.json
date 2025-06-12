@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALL FOLDER/Notes - Messages For Commit Git.md",
+                "file": "WORSHIP AND THE PRAYERS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes - Messages For Commit Git"
+              "title": "WORSHIP AND THE PRAYERS"
             }
           }
         ],
@@ -196,8 +196,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fd9658eaa489a5cd",
+  "active": "c4c0ba23eee6ea8d",
   "lastOpenFiles": [
+    "Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇.md",
+    "WORSHIP AND THE PRAYERS.md",
+    "The Ninth Word.md",
+    "The Fourth Word - The Prescribed Prayers.md",
+    "ALL FOLDER/Notes - Messages For Commit Git.md",
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.6 Rate Limiting and Best Practices.md",
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.5 Building GitHub Apps.md",
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.4 Using the GitHub API to Automate Tasks.md",
@@ -219,11 +224,6 @@
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2.2 Creating Workflows⁚ YAML Syntax.md",
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2.1 Introduction to GitHub Actions.md",
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2 GitHub Actions.md",
-    "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.6 Best Practice for Using Submodules and Subtrees.md",
-    "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.5 Using Subtrees as an Alternative to submodules.md",
-    "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.4 Working with Submodules Changes.md",
-    "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.3 Updating Submodules⁚ ‘git submodules update’.md",
-    "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.2 Initializing Submodules⁚ ‘git submodules init’.md",
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES",
     "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/11_TROUBLESHOOTING AND DEBUGGING",
     "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/10_FILE SYSTEM AND STORAGE",

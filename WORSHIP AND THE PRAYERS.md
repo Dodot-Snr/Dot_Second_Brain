@@ -25,4 +25,5 @@ E-mail: info@sozler.com.tr
 	- [[Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇#To Conclude|To Conclude]]
 - [[The Fourth Word - The Prescribed Prayers]]
 - [[The Ninth Word]]
-- 
+- [[5.1.2 Merging Changes from Different Branches]]
+- [[5.1.1 Husky]]
