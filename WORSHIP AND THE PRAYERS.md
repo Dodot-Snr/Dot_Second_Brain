@@ -8,23 +8,15 @@ Yes, just as each of the times of prayer marks the start of an important revolut
 ### About 
 
 Translated from the Turkish
-
 by Şükran Vahide
 
 Copyright © 2004 by Sözler Neşriyat ve Sanayi A.Ş. All rights reserved. This book may not be reproduced by any means in whole or in part without prior permission.
-
 For information, address: Sözler Neşriyat A.Ş.,
-
 Nurusomaniye Cad., Sorkun Han No, 28/2, Cağaloğlu,
-
 Istanbul, Turkey.
-
 Tel: 0212 511 79 80
-
 Fax: 0212 520 82 31
-
 Internet: www.sozler.com.tr
-
 E-mail: info@sozler.com.tr
 
 ### Contents
@@ -33,5 +25,4 @@ E-mail: info@sozler.com.tr
 	- [[Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇#To Conclude|To Conclude]]
 - [[The Fourth Word - The Prescribed Prayers]]
 - [[The Ninth Word]]
-- [[5.1.2 Merging Changes from Different Branches]]
-- [[5.1.1 Husky]]
+

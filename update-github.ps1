@@ -3,6 +3,6 @@ obsidian-export "C:\Users\azzam\OneDrive\Desktop\Learning Research" "C:\Users\az
 cd C:\Users\azzam\GitHub_Export
 git add --all
 git commit -m "Update: $(Get-Date -Format 'HH:mm')"
-git push
+git push -f origin main
 Write-Host "✅ Pushed to GitHub!" -ForegroundColor Green
 timeout /t 5
