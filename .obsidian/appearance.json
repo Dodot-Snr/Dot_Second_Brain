@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "hierarchical-lists"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Border"
 }
