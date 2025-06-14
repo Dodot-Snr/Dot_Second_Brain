@@ -3,5 +3,6 @@
     "hierarchical-lists"
   ],
   "theme": "obsidian",
-  "cssTheme": "Border"
+  "cssTheme": "Border",
+  "accentColor": ""
 }

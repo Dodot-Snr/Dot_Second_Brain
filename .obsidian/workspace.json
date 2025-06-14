@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec97358106a35147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second-Brain4Career/ALL FOLDER/ALL FOLDER.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ALL FOLDER"
-            }
-          },
-          {
             "id": "4f1bb6790391b91f",
             "type": "leaf",
             "state": {
@@ -39,18 +25,15 @@
             "id": "c4c0ba23eee6ea8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "WORSHIP AND THE PRAYERS.md",
-                "mode": "source",
-                "source": false
+                "file": "WhatsApp Image 2025-06-14 at 00.38.30_c94f84d2.jpg"
               },
-              "icon": "lucide-file",
-              "title": "WORSHIP AND THE PRAYERS"
+              "icon": "lucide-image",
+              "title": "WhatsApp Image 2025-06-14 at 00.38.30_c94f84d2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +179,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c4c0ba23eee6ea8d",
+  "active": "4f1bb6790391b91f",
   "lastOpenFiles": [
+    "WhatsApp Image 2025-06-14 at 00.38.30_c94f84d2.jpg",
+    "WORSHIP AND THE PRAYERS.md",
+    "The Ninth Word.md",
+    "The Fourth Word - The Prescribed Prayers.md",
     "Update GitHub Notes.lnk",
     "powershell.exe.lnk",
     "update-github.ps1.lnk",
@@ -205,9 +192,6 @@
     "update-github.ps1",
     "New Text Document.txt",
     "Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇.md",
-    "WORSHIP AND THE PRAYERS.md",
-    "The Ninth Word.md",
-    "The Fourth Word - The Prescribed Prayers.md",
     "ALL FOLDER/Notes - Messages For Commit Git.md",
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.6 Rate Limiting and Best Practices.md",
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.5 Building GitHub Apps.md",
@@ -232,7 +216,6 @@
     "ALL FOLDER/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES",
     "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/11_TROUBLESHOOTING AND DEBUGGING",
     "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/10_FILE SYSTEM AND STORAGE",
-    "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/9_VIRTULIZATION AND CONTAINERIZATION",
-    "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/8_AUTOMATION AND SCRIPTING"
+    "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/9_VIRTULIZATION AND CONTAINERIZATION"
   ]
 }
