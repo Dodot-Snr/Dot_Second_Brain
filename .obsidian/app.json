@@ -1,4 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "autoConvertHtml": true,
+  "spellcheck": false,
+  "propertiesInDocument": "hidden",
+  "readableLineLength": true,
+  "showInlineTitle": false
 }

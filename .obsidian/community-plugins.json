@@ -1,10 +1,14 @@
 [
   "obsidian-kanban",
-  "table-editor-obsidian",
   "obsidian-icon-folder",
   "obsidian-outliner",
   "number-headings-obsidian",
   "custom-sort",
   "obsidian-git",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "beautitab",
+  "obsidian-banners",
+  "obsidian-emoji-toolbar",
+  "homepage",
+  "code-styler"
 ]

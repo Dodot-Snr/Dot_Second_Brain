@@ -2,13 +2,15 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 18,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHome",
-      "LiFolderGit",
-      "LiBookText"
+      "RiFilePaperFill",
+      "📄",
+      "RiBookReadLine",
+      "LiFolderTree",
+      "FasTableList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +22,7 @@
     },
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
-    "iconInTitlePosition": "above",
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
@@ -32,19 +34,123 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY": "LiFolderGit",
-  "ALL FOLDER/ALL FOLDER.md": "LiHome",
-  "ALL FOLDER/ADVANCE LINUX MASTERY": "LiFolderGit",
-  "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX": "LiFolderGit",
-  "ALL FOLDER/DOTFILES GIT FOR LINUX": "LiFolderGit",
-  "ALL FOLDER/GIT AND GITHUB MASTERY": "LiFolderGit",
-  "ALL FOLDER/ADVANCED GIT AND GITHUB FOR LINUX MASTERY": "LiFolderGit",
-  "ALL FOLDER/LINUX MASTERY⁚ A BEGINNER’S GUIDE": "LiFolderGit",
-  "ALL FOLDER/ADVANCED GIT AND GITHUB MASTERY/ADVANCED GIT AND GITHUB MASTERY.md": "LiHome",
-  "ALL FOLDER/DOTFILES GIT FOR LINUX/DOTFILES GIT FOR LINUX.md": "LiHome",
-  "ALL FOLDER/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md": "LiHome",
-  "ALL FOLDER/GIT AND GITHUB MASTERY/GIT AND GITHUB MASTERY.md": "LiHome",
-  "ALL FOLDER/LINUX MASTERY⁚ A BEGINNER’S GUIDE/LINUX MASTERY⁚ A BEGINNER’S GUIDE.md": "LiHome",
-  "ALL FOLDER/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/ADVANCED GIT AND GITHUB FOR LINUX MASTERY.md": "LiHome",
-  "ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md": "LiHome"
+  "AI Learning/ADVANCE LINUX MASTERY": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md": "LiHome",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/ADVANCED GIT AND GITHUB FOR LINUX MASTERY.md": "FasTableList",
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/ADVANCED GIT AND GITHUB MASTERY.md": "FasTableList",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md": "LiHome",
+  "AI Learning/DOTFILES GIT FOR LINUX/DOTFILES GIT FOR LINUX.md": "LiHome",
+  "AI Learning/GIT AND GITHUB MASTERY/GIT AND GITHUB MASTERY.md": {
+    "iconName": "FasTableList",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/LINUX MASTERY⁚ A BEGINNER’S GUIDE.md": "LiHome",
+  "DOT_HOME.md": {
+    "iconName": "SiHomeassistantcommunitystore",
+    "iconColor": "#00ff28"
+  },
+  "AI Learning/AI ROADMAP.md": {
+    "iconName": "RiListView",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning": {
+    "iconName": "FasRobot",
+    "iconColor": "#00ff28"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1 Introduction to Version Control.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.1 Understanding Version Control Systems (VCS).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.2 Centralized vs Distributed VSC.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.3 Benefits of Using Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.5 Installing Git on Different Operating System.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.6 Configuring Git⁚ User Information, Editor, Aliases.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2 Basic Git Commands.md": "RiBookReadLine",
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.4 Git’s Core Concepts⁚ Repositories, Commits, Branches.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  }
 }

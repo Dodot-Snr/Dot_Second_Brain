@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "hierarchical-lists"
+    "hierarchical-lists",
+    "dashboard"
   ],
   "theme": "obsidian",
   "cssTheme": "Border",
