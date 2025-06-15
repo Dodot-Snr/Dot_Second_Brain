@@ -148,8 +148,403 @@
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   },
-  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2 Basic Git Commands.md": "RiBookReadLine",
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2 Basic Git Commands.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
   "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.4 Git’s Core Concepts⁚ Repositories, Commits, Branches.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.1 Initializing a Repositories⁚ ‘git init’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.2 Staging Changes⁚ ‘git add'.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.3 Committing Changes⁚ ‘git commit’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.5 Checking File Status⁚ ‘git status’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.6 Ignoring Files⁚ ‘gitgnore’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.7 Undoing Changes⁚ ‘git checkout’, ‘git revert’, ‘git reset’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.3 Branching and Merging.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.3.1 Creating Branches⁚ ‘git branch’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.3.2 Switching Branches⁚ ‘git checkout’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff02"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.3.3 Merging Branches⁚ ‘git merge’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.3.4 Resolving Merge conflicts.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.3.5 Deleting Branches⁚ ‘git branch -d’, ‘git branch -D’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.3.6 Branching Strategies⁚ Gitflow, Github Flow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.4 Viewing Commit History⁚ ‘git log’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1 Working with remote.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1.1 Adding Remote Repositories⁚ ‘git remote add’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1.2 Fetching Changes⁚ ‘git fetch’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1.3 Pulling Changes⁚ ‘git pull’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1.4 Pushing Changes⁚ ‘git push’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1.5 Tracking Remote Branches.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1.6 Renaming and Removing Remote.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.2 Introduction to GitHub.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.2.1 Understanding GitHub’s Role.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.2.2 Creating GitHub Account.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.2.3 Exploring the GitHub Interface.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.2.4 Understanding Repositories, Issues, Pull Requests, Action.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.2.5 GitHub Flavored Markdown (GFM).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.2.6 GitHub Pages.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.3 Repository Management.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.3.1 Creating a New Repository on GitHub.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.3.2 Cloning a Repository from GitHub⁚ ‘git clone’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.3.3 Adding an Existing Project to GitHub.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.3.4 Repository Setting Visibility⁚ Branch Protection Collaborators.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.3.5 Managing Repository Collaborators and Permissions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.3.6 Using GitHub Projects for Task Management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.4 Collaboration with Pull Requests.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.4.1 Creating a Pull Request.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.4.2 Reviewing a Pull Request.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.4.3 Commenting on Code and Discussions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.4.4 Merging a Pull Request.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.4.5 Resolving Conflicts in Pull Requests.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.4.6 Understanding Code Review Best Practices.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.1 GitHub Issues and Project Management.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.1.1 Creating and Managing Issues.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.1.2 Using Labels and Milestones.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.1.3 Assigning Issues to Collaborators.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.1.4 Linking Issues to Pull Request.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.1.5 Using GitHub Project Boards (Kanban).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.1.6 Automating Issues Management with GitHub Actions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.2 Rebasing.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.2.1 Understanding Rebasing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.2.2 Interactive Rebasing⁚ ‘git rebase -i’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.2.3 Rebasing vs Merging.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.2.4 When to Rebase and When to Merge.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.2.5 Recovering from a Bad Rebase.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.2.6 Best Practice for Rebasing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.3 Stashing.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.3.1 Stashing Changes⁚ ‘git stash’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.3.2 Listing Stashes⁚ ‘git stash list’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.3.3 Applying Staches⁚ ‘git stash apply’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.3.4 Popping Stashes⁚ ‘git stash pop’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.3.5 Creating a Branch from a Stash⁚ ‘git stash branch’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.3.6 Clearing Stashes⁚ ‘git stash clear’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.4 Git Internals.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.4.2 The ‘.git’ Directory Structure.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.4.3 Git’s Index (Staging Area).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.4.4 Git’s Object Database.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.4.5 Understanding Git’s Hashing Algrithm (SHA-1).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.4.6 Garbage Collection⁚ ‘git go’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.4.1 Understanding Git’s Data Model⁚ Objects, Trees, Commits.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1 Submodules and Subtrees.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.1 Adding Submodules⁚ ‘git Submodules add’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.2 Initializing Submodules⁚ ‘git submodules init’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.3 Updating Submodules⁚ ‘git submodules update’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.4 Working with Submodules Changes.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.5 Using Subtrees as an Alternative to submodules.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.1.6 Best Practice for Using Submodules and Subtrees.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2 GitHub Actions.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2.1 Introduction to GitHub Actions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2.2 Creating Workflows⁚ YAML Syntax.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2.3 Understanding Triggers, Jobs and Steps.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2.4 Using Pre-built Actions from the GitHub Marketplace.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2.5 Creating Custom Actions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.2.6 Automating CI⁄CD Pipelines.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3 GitHub Pages.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.1 Creating a GitHub Pages Site.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.2 Using Jekyll with GitHub Pages.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.3 Customizing Your GitHub Pages Site.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.4 Using Custom Domains with GitHub Pages.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.5 Understanding GitHub Pages Deployment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.6 Troubleshooting GitHub Pages Issues.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4 GitHub API.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.1 Introduction to the GitHub API.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.2 Authentication with the GitHub API.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.3 Making API Requests⁚ REST and GraphQL.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.4 Using the GitHub API to Automate Tasks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.5 Building GitHub Apps.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.6 Rate Limiting and Best Practices.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   }

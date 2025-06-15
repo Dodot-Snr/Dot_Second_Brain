@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b520fb5be5767860",
+        "id": "214e22736575488c",
         "type": "tabs",
         "children": [
           {
-            "id": "6b9db34a2a46e19c",
+            "id": "4da0859b2ca282f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2 Basic Git Commands.md",
+                "file": "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.4 Using Custom Domains with GitHub Pages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Basic Git Commands"
+              "title": "4.3.4 Using Custom Domains with GitHub Pages"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5124969482422
+    "width": 461.5
   },
   "right": {
     "id": "e7bbb0209364c9bd",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second-Brain4Career/ALL FOLDER/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md",
+                "file": "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.4 Using Custom Domains with GitHub Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DEEP MASTERY CUSTOMIZE LINUX"
+              "title": "Backlinks for 4.3.4 Using Custom Domains with GitHub Pages"
             }
           },
           {
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALL FOLDER/Notes - Messages For Commit Git.md",
+                "file": "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.4 Using Custom Domains with GitHub Pages.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes - Messages For Commit Git"
+              "title": "Outline of 4.3.4 Using Custom Domains with GitHub Pages"
             }
           },
           {
@@ -148,29 +148,15 @@
             }
           },
           {
-            "id": "1b6d582d2d6e740a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "4f16b5af91519f38",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2 Basic Git Commands.md"
+                "file": "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.3.4 Using Custom Domains with GitHub Pages.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 1.2 Basic Git Commands"
+              "title": "File properties for 4.3.4 Using Custom Domains with GitHub Pages"
             }
           }
         ],
@@ -194,8 +180,18 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1b6d582d2d6e740a",
+  "active": "fd9658eaa489a5cd",
   "lastOpenFiles": [
+    "AI Learning/GIT AND GITHUB MASTERY/GIT AND GITHUB MASTERY.md",
+    "DOT_HOME.md",
+    "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.1.6 Automating Issues Management with GitHub Actions.md",
+    "AI Learning/GIT AND GITHUB MASTERY/003 ADVANCE GIT CONCEPT/3.3 Stashing.md",
+    "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2 Basic Git Commands.md",
+    "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1 Introduction to Version Control.md",
+    "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1.1 Adding Remote Repositories⁚ ‘git remote add’.md",
+    "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.1.6 Renaming and Removing Remote.md",
+    "AI Learning/GIT AND GITHUB MASTERY/002 GITHUB ESSENTIALS/2.2 Introduction to GitHub.md",
+    "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.3 Committing Changes⁚ ‘git commit’.md",
     "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.1 Understanding Version Control Systems (VCS).md",
     "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1.6 Configuring Git⁚ User Information, Editor, Aliases.md",
     "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.2.1 Initializing a Repositories⁚ ‘git init’.md",
@@ -212,16 +208,6 @@
     "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3.3 Code Review Workflow.md",
     "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2 Code Ownership.md",
     "AI Learning/ADVANCED GIT AND GITHUB MASTERY/004 GIT BRANCHING STRATEGIES/4.4 GitLab Flow.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/004 GIT BRANCHING STRATEGIES/4.4.1 Environment Branches.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/004 GIT BRANCHING STRATEGIES/4.3.3 Pull Requests⁚ Collaboration and Code Review.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/004 GIT BRANCHING STRATEGIES/4.2.6 Merging and Tagging.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/004 GIT BRANCHING STRATEGIES/4.2.3 Feature Branches.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/004 GIT BRANCHING STRATEGIES/4.2.2 The Develop Branch.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/003 GITHUB COLLABURATION/3.6.5 CI⁄CD Pipelines.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/003 GITHUB COLLABURATION/3.6.3 Using Pre-built Actions.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/003 GITHUB COLLABURATION/3.5 GitHub Projects.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/003 GITHUB COLLABURATION/3.4.3 Using Labels and Milestones.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/003 GITHUB COLLABURATION/3.4.2 Assigning Issues.md",
     "DSC00487.jpg",
     "WhatsApp Image 2025-06-15 at 02.16.35_d1980b66.jpg",
     "WhatsApp Image 2025-06-14 at 00.38.30_c94f84d2 1.jpg",
