@@ -5,5 +5,7 @@
   "spellcheck": false,
   "propertiesInDocument": "hidden",
   "readableLineLength": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }
