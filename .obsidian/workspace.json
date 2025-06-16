@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8446b1bd7fc7ce5a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "182e718dbfb3ebe7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
+                "file": "AI Learning/ADVANCED GIT AND GITHUB MASTERY/005 GIT CONFIGURATION/5.6.3 Using SSH for Authentication.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "5.6.3 Using SSH for Authentication"
             }
           }
         ]
@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DOT_HOME.md"
+                "file": "AI Learning/ADVANCED GIT AND GITHUB MASTERY/005 GIT CONFIGURATION/5.6.3 Using SSH for Authentication.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for DOT_HOME"
+              "title": "File properties for 5.6.3 Using SSH for Authentication"
             }
           },
           {
@@ -193,34 +193,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "182e718dbfb3ebe7",
+  "active": "d679895c2cf7e441",
   "lastOpenFiles": [
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/002 ADVANCED GIT TECHNIQUES/2.1 Ignoring Files.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.1.6 Branches and Merging.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.5.5 Tracking Branches.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.5.4 Pushing to Remotes.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.5.3 Pulling from Remotes.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.5.2 Fetching from Remotes.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.5.1 Adding Remote Repositories.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.5 Working with Remotes.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.4.4 git clean (removing untracked files).md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.4.3 git revert (creating a new commit to undo).md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.4.2 git reset (staging area and commit history).md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.4.1 git checkout (restoring files).md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.4 Undoing Changes.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3.6 Branching Strategies (Gitflow, GitHub, Flow).md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3.5 Resolving Merge Conflicts.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3.4 Merge Conflicts.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3.3 Merging Branches.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3.2 Switching Branches.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3.1 Creating Branches.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3 Branching and Merging.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.2.8 git remote.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.2.7 git log⁚ Unveiling Your Project's History.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.2.6 git diff⁚ Examining Changes.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.2.5 git status.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.1.1 Version Control Systems.md",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.1 Core Concepts.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/005 GIT CONFIGURATION/5.4.3 Configuring Merge Strategies.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/003 GITHUB COLLABURATION/3.1 Git Hooks.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/003 GITHUB COLLABURATION/3.1.2 Server-Side Hooks.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.3 Storing Documentation in Git.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.2 Keeping Documentation Up-to-Date.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.1 Writing Documentation.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6 Documentation.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.3 Running Tests Automatically.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.2 Writing Integration Tests.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.1 Writing Unit Tests.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5 Testing.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.3 Addressing Review Comments.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.2 Proving Constructive Feedback.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4 Code Review.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.1 Performing Code Reviews.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.3 Deleting Branches After Merging.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.2 Keeping Branches Short-Lived.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.1 Using Feature Branches.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.3 Referencing Issues in Commit Messages.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3 Branching.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.2 Using a Consistent Style.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.1 Writing Clear Commit Messages.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.3 Managing Infrastructure with Git.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2 Commit Messages.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.2 Automating Deployments wit h Git.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.1 Using Git as the Source of Truth.md",
     "DSC00487.jpg",
     "WhatsApp Image 2025-06-15 at 02.16.35_d1980b66.jpg",
     "WhatsApp Image 2025-06-14 at 00.38.30_c94f84d2 1.jpg",
