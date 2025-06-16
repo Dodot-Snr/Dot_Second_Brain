@@ -12,7 +12,7 @@
       "LiFolderTree",
       "FasTableList"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 10,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -20,7 +20,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": false,
@@ -545,6 +545,714 @@
     "iconColor": "#ffff00"
   },
   "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES/4.4.6 Rate Limiting and Best Practices.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.1 GitHub Security.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.1.1 Understanding GitHub Security Feature.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.1.3 SSH Key Management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.1.4 Repository Security Settings.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.1.5 Dependency Scanning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.1.6 Secret Scanning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.1.7 Code Scanning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.2 GitFlow Workflow.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.2.1 Understanding the GitFlow Workflow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.2.2 Feature Branches, Release Branches, Hotfix Branches.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.2.3 Using Gitflow Tools and Extensions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.2.4 Advantages and Disadvantages of GitFlow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.2.5 Adopting GitFlow to Your Project.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.2.6 Implementing GitFlow in a Team Environment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.3 GitHub Flow Workflow.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.3.1 Understanding the GitHub Flow Workflow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.3.2 Branching from Main, Creating Pull Requests.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.3.3 Continuous Integration and Continuous Deployment (CI⁄CD).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.3.4 Advantages and Disadvantages of GitHub Flow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.3.5 Adopting GitHub Flow to Your Project.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.3.6 Implementing GitHub Flow in a Team Environment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.4 Code Review Best Practices.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.4.1 Writing Clear and Concise Commit Messages.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.4.2 Breaking Down Large Changes into Smaller Commits.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.4.4 Using Automated Code Review Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.4.5 Establishing Code Review Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.4.6 Encouraging a Culture of Code Review.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.1.2 Two-Factor Authentication (2FA).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/005 GIT WORKFLOWS AND BEST PRACTICES/5.4.3 Providing Constructive Feedback in Code Reviews.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.1 Collaborations and Teamwork.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.1.1 Effective Communication a Git Environment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.1.2 Resolving Conflicts Collaboratively.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.1.3 Using GitHub Discussions for Team Communication.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.1.4 Establishing Clear Roles and Responsibilities.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.1.5 Onboarding New Team Members to Git and GitHub.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.1.6 Promoting a Positive and Inclusive Collaboration Environment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.2 Git GUIs.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.2.1 Introduction to Git GUIs.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.2.2 Popular Git GitHub Desktop, GitKraken, Sourcetree.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.2.3 Advantages and Disadvantages of Using a Git GUI.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.2.4 Choosing the Right Git GUI for your Needs.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.2.5 Integration Git GUIs with Your Development Environment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.2.6 Using Git GUIs for Visualizing Branching and Merging.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.3 Git in IDEs.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.3.1 Integrating Git with Popular IDEs⁚ VS Code, IntelliJ, Eclipse.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.3.2 Using Git Features Directly from Your IDE.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.3.3 Resolving Merge Conflicts in Your IDE.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.3.4 Using IDE Extensions for Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.3.5 Configuring Git Setting in Your IDE.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.3.6 Streamlining Your Workflow with IDE Git Integration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.4 Git Hooks.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.4.1 Understanding Git Hooks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.4.2 Client-Side Hooks⁚ ‘pre-commit’, ‘pre-push’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.4.3 Server-Side Hooks⁚ ‘pre-receive’, ‘post-receive’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.4.4 Creating Custom Git Hooks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.4.5 Using Git Hooks for Code Quality and Security.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.4.6 Managing Git Hooks in a Team Environment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/006 GIT TOOLS AND INTEGRATIONS/6.4.7 Best Practices for Using Git Hooks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.1 Git and CI⁄CD.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.1.1 Integrating Git with CI⁄CD Tools⁚ Jenkins, Travis CI, CircleCI.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.1.2 Automating Builds, Tests, and Deployments.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.1.3 Using Git Webhooks to Trigger CI⁄CD Pipelines.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.1.4 Managing Configuration as Code with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.1.5 Implementing Infrastructure as Code with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.1.6 Best Practices for Git and CI⁄CD Integration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.2 Common Git Errors.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.2.1 Resolving Common Git Errors⁚ Merge Conflicts, Detached HEAD, Staging Issues.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.2.2 Understanding Error Messages and Debugging Techniques.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.2.3 Using ‘git fsck’ to Check Repository Integrity.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.2.4 Recovering Lost Commits and Branches.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.2.5 Fixing Corrupted Repositories.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.2.6 Preventing Common Git Errors.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.3 GitHub Troubleshooting.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.3.1 Troubleshooting GitHub Authentication Issues.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.3.2 Resolving GitHub Permission Issues.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.3.3 Diagnosing GitHub Actions Failures.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.3.4 Troubleshooting GitHub Pages Deployment Issues.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.3.5 Fixing GitHub API Errors.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.3.6 Contacting GitHub Support.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.4 Performance Optimization.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.4.1 Optimizing Git Repository Size.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.4.2 Using Git LPS for Large Files.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.4.3 Improving Git Command Performance.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.4.4 Caching Strategies for Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.4.5 Monitoring Git and GitHub Performance.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/007 TROUBLESHOOTING GIT AND GITHUB/7.4.5 Optimizing GitHub Actions Performance.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.1 Security Best Practices.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.1.1 Securely Staring Credentials.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.1.2 Protecting Against Git-Related Security Vulnerabilities.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.1.3 Implementing Code Signing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.1.4 Using Security Scanning Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.1.5 Monitoring for Security.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.1.6 Responding to Security Incidents.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.2 Git for Web Development.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.2.1 Managing Front-End Projects with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.2.2 Managing Back-End Projects with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.2.3 Using Git for Versioning Web Assets.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.2.4 Deploying Web Applications with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.2.5 Collaborating on Web Development Projects.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.2.6 Best Practice for Git in Web Development.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.3 Git for Data Science.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.3.1 Versioning Data Science Projects with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.3.2 Managing Data Files with Git LFS.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.3.3 Collaborating on Data Science Projects.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.3.4 Using Git for Reproducible Research.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.3.5 Integration Git with Data Science Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.3.6 Best Practices for Git in Data Science.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.4 Git for Mobile Development.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.4.1 Managing Mobile App Projects with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.4.2 Versioning Mobile App Assets.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.4.3 Collaborating on Mobile Development Projects.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.4.4 Using Git for Continuous Integration and Delivery.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.4.5 Managing Code Signing Certification with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/008 GIT FOR SPECIFIC USE CASES/8.4.6 Best Practices for Git in Mobile Development.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.1 Git for Documentation.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.1.1 Versioning Documentation with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.1.2 Using Markdown and Other Formats for Documentation.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.1.3 Collaborating on Documentation Projects.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.1.4 Generating Documentation from Git Repositories.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.1.5 Deploying Documentation with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.1.6 Best Practices for Git in Documentation.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.2 Onboarding New Team Members.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.2.1 Creating Onboarding Documentation for Git and GitHub.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.2.2 Providing Training and Support for New Team Members.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.2.3 Setting Up Git GitHub Accounts for New Team Members.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.2.4 Introducing Team Workflows and Best Practices.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.2.5 Assigning Mentors to New Team Members.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.2.6 Monitoring New Team Member Progress.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.3 Establishing Team Standards.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.3.1 Defining Git Commit Message Conventions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.3.2 Establishing Branching Strategies.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.3.3 Setting Code Review Guidelines.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.3.4 Defining Code Style Guidelines.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.3.5 Establishing Testing Standards.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.3.6 Documenting Team Workflows.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.4 Conflict Resolution Strategies.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.4.1 Identifying and Addressing Conflicts Early.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.4.2 Using Communication to Resolve Conflicts.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.4.3 Facilitating Mediation Between Team Members.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.4.4 Escalating Conflicts When Necessary.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.4.5 Documenting Conflict Resolution Processes.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/009 GIT AND GITHUB FOR TEAMS/9.4.6 Learning from Past Conflicts.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.1 Promoting Collaboration.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.1.1 Encouraging Open Communication.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.1.2 Fostering a Culture of Respect.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.1.3 Recognizing and Rewarding Collaboration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.1.4 Providing Opportunities for Team Building.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.1.5 Using Collaboration Tools Effectively.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.1.6 Creating a Positive and Inclusive Team Environment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.2 Git certification Options.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.2.1 Exploring Git Certification Programs.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.2.2 Preparing for Git Certification Exams.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.2.3 Understanding the Benefits of Git Certification.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.2.4 Choosing the Right Git Certification for Your Career Goals.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.2.5 Maintaining Your Git Certification.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.2.6 Resource for Git Certification.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.3 Building a Git Portfolio.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.3.1 Contributing to Open Source Projects.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.3.2 Creating Personal Git Projects.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.3.3 Showcasing Your Git Skills on Your Resume.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.3.4 Highlighting Your Git Contributions on LinkedIn.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.3.5 Building a GitHub Profile.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.3.6 Networking with Other Git Professionals.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.4 Career Paths with Git Skills.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.4.1 Software Development.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.4.2 DevOps Engineer.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.4.3 System Administrator.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.4.4 Data Scientist.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.4.5 Technical Writer.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.4.6 Project Manager.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.5 Staying Up-to-Date with Git.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.5.1 Following Git Blogs and Newsletters.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.5.2 Attending Git Conferences and Workshops.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.5.3 Participating in Git Communities.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.5.4 Contributing to Git Projects.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.5.6 Continuously Learning and Improving Your Git Skills.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/GIT AND GITHUB MASTERY/010 GIT CERTIFICATION AND CAREER DEVELOPMENT/10.5.5 Experimenting with New Git Features.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   }

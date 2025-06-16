@@ -21,5 +21,8 @@
   "Components@@colorful-folder": true,
   "Components@@file-icon-remove": true,
   "Editor@@codeblock-style-select": "codeblock-style-solarized-dark",
-  "Editor@@callout-style-select": "callout-style-customize"
+  "Editor@@callout-style-select": "callout-style-customize",
+  "Components@@file-names-untrim": false,
+  "Components@@folder-font-bold": false,
+  "Components@@CTA-BTN-enable": false
 }
