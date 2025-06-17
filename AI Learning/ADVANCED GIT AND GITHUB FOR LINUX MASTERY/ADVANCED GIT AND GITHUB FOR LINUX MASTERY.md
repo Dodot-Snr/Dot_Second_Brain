@@ -21,7 +21,7 @@
 	- [[5.1 Hook Management Tools]]
 	- [[5.2 Git Bisect]]
 	- [[5.3 Git Filter-Branch]]
-	- [[AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/5_ADVANCED GIT COMMANDS AND TECHNIQUES/5.4 Git Attributes]]
+	- [[AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.4 Git Attributes]]
 6. PERFORMANCE OPTIMIZATION
 	- [[6.1 Git LFS (Large File Storage)]]
 	- [[6.2 Repositories Size Management]]

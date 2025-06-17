@@ -2155,85 +2155,322 @@
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   },
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.1 Performance Issues.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.1.1 Optimizing Repository Size.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.1.2 Using Git’s Performance Tools.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.1.3 Identifying Bottlenecks.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2 Code Ownership.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2.1 Defining Code Owners.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2.2 Using CODEOWNERS File.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2.3 Enforcing Code Ownership.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3 Collaboration Workflows.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3.1 Feature Branch Workflow.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3.2 Pull Request Workflow.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3.3 Code Review Workflow.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.4 Communication.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.4.1 Using Pull Request Comments.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.4.2 Using Issues.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.4.3 Using Discussions.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.5 Onboarding New Team Members.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.5.1 Setting Up Git and GitHub.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.5.3 Providing Training.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.5.2 Explaining Workflow.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.1 Conflict Resolution.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.1.1 Resolving Technical Conflicts.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.1.2 Resolving Interpersonal Conflicts.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.2 Protecting Branches.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.2.1 Branch Protection Rules.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.2.2 Requiring Pull Request Reviews.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.2.3 Requiring Status Checks.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.3 Secure Coding Practices.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.3.1 Preventing Secrets in Code.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.3.2 Using Secure Libraries.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.3.3 Performing Security Audits.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.4 Authentication.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.4.1 Using SSH Keys.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.4.2 Using Personal Access Tokens.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.4.3 Using Multi-Factor Authentication.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.5 Permission.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.5.1 Managing Repository Permission.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.5.2 Using Teams.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.5.3 Using Organizations.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.1 Auditing.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.1.1 Reviewing Audit Logs.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.1.2 Monitoring Activity.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.2 Continuous Integration (CI).md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.1.3 Detection Suspicious Behavior.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.2.1 Integrating Git with CI Tools.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.2.2 Automating Builds.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.2.3 Running Tests.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.3 Continuous Delivery (CD).md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.3.1 Integrating Git with CD Tools.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.3.2 Automating Deployments.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.3.3 Managing Environments.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.4 Infrastructure as Code (IaC).md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.4.1 Storing Infrastructure Code in Git.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.4.2 Using Git for Version Control.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.4.3 Automating Infrastructure Changes.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1 GitOps.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.1 Using Git as the Source of Truth.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.2 Automating Deployments wit h Git.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2 Commit Messages.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.3 Managing Infrastructure with Git.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.1 Writing Clear Commit Messages.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.2 Using a Consistent Style.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3 Branching.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.3 Referencing Issues in Commit Messages.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.1 Using Feature Branches.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.2 Keeping Branches Short-Lived.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.3 Deleting Branches After Merging.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4 Code Review.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.1 Performing Code Reviews.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.2 Proving Constructive Feedback.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.3 Addressing Review Comments.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5 Testing.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.1 Writing Unit Tests.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.2 Writing Integration Tests.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.3 Running Tests Automatically.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6 Documentation.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.1 Writing Documentation.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.2 Keeping Documentation Up-to-Date.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.3 Storing Documentation in Git.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.1 Performance Issues.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.1.1 Optimizing Repository Size.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.1.2 Using Git’s Performance Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.1.3 Identifying Bottlenecks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2 Code Ownership.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2.1 Defining Code Owners.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2.2 Using CODEOWNERS File.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.2.3 Enforcing Code Ownership.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3 Collaboration Workflows.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3.1 Feature Branch Workflow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3.2 Pull Request Workflow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.3.3 Code Review Workflow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.4 Communication.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.4.1 Using Pull Request Comments.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.4.2 Using Issues.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.4.3 Using Discussions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.5 Onboarding New Team Members.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.5.1 Setting Up Git and GitHub.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.5.3 Providing Training.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/009 GIT FOR TEAMS/9.5.2 Explaining Workflow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.1 Conflict Resolution.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.1.1 Resolving Technical Conflicts.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.1.2 Resolving Interpersonal Conflicts.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.2 Protecting Branches.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.2.1 Branch Protection Rules.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.2.2 Requiring Pull Request Reviews.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.2.3 Requiring Status Checks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.3 Secure Coding Practices.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.3.1 Preventing Secrets in Code.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff02"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.3.2 Using Secure Libraries.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.3.3 Performing Security Audits.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.4 Authentication.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.4.1 Using SSH Keys.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.4.2 Using Personal Access Tokens.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.4.3 Using Multi-Factor Authentication.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.5 Permission.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.5.1 Managing Repository Permission.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.5.2 Using Teams.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.5.3 Using Organizations.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.1 Auditing.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.1.1 Reviewing Audit Logs.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.1.2 Monitoring Activity.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.2 Continuous Integration (CI).md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.1.3 Detection Suspicious Behavior.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.2.1 Integrating Git with CI Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.2.2 Automating Builds.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.2.3 Running Tests.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.3 Continuous Delivery (CD).md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.3.1 Integrating Git with CD Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.3.2 Automating Deployments.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.3.3 Managing Environments.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.4 Infrastructure as Code (IaC).md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.4.1 Storing Infrastructure Code in Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.4.2 Using Git for Version Control.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/011 GIT AND DEVOPS/11.4.3 Automating Infrastructure Changes.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1 GitOps.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.1 Using Git as the Source of Truth.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.2 Automating Deployments wit h Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2 Commit Messages.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.1.3 Managing Infrastructure with Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.1 Writing Clear Commit Messages.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.2 Using a Consistent Style.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3 Branching.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.2.3 Referencing Issues in Commit Messages.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.1 Using Feature Branches.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.2 Keeping Branches Short-Lived.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.3.3 Deleting Branches After Merging.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4 Code Review.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.1 Performing Code Reviews.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.2 Proving Constructive Feedback.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.4.3 Addressing Review Comments.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5 Testing.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.1 Writing Unit Tests.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.2 Writing Integration Tests.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.5.3 Running Tests Automatically.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6 Documentation.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.1 Writing Documentation.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.2 Keeping Documentation Up-to-Date.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB MASTERY/012 GIT BEST PRACTICES/12.6.3 Storing Documentation in Git.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
   "AI Learning/ADVANCED GIT AND GITHUB MASTERY/004 GIT BRANCHING STRATEGIES/4.2.4 Release Branches.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
@@ -2245,5 +2482,6 @@
   "AI Learning/ADVANCED GIT AND GITHUB MASTERY/006 ADVANCES GITHUB FEATURES/6.6.2 Dependency Scanning.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
-  }
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES": "LiFolderTree"
 }

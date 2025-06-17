@@ -205,73 +205,67 @@
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "1_GIT INTERNALS AND ARCHITECTURES"
+                  "title": "001 GIT INTERNALS AND ARCHITECTURES"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "2_ADVANCED BRANCHING AND MERGING"
+                  "title": "002 ADVANCED BRANCHING AND MERGING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "3_COLLABORATION AND REMOTE WORKFLOWS"
+                  "title": "003 COLLABORATION AND REMOTE WORKFLOWS"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "4_GIT HOOKS"
+                  "title": "004 GIT HOOKS"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "5_ADVANCED GIT COMMANDS AND TECHNIQUES"
+                  "title": "005 ADVANCED GIT COMMANDS AND TECHNIQUES"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "6_PERFORMANCE OPTIMIZATION"
+                  "title": "006 PERFORMANCE OPTIMIZATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "7_SECURITY BEST PRACTICES"
+                  "title": "007 SECURITY BEST PRACTICES"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "8_GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT"
+                  "title": "008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "9_GITHUB ADVANCED FEATURES"
+                  "title": "009 GITHUB ADVANCED FEATURES"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "10_GIT AND DEVOPS"
+                  "title": "010 GIT AND DEVOPS"
                 },
                 {
                   "type": "group",
                   "ctime": 1749115967202,
                   "items": [],
-                  "title": "11_TROUBLESHOOTING AND RECOVERY"
-                },
-                {
-                  "type": "group",
-                  "ctime": 1749115967202,
-                  "items": [],
-                  "title": "12_SCRIPTING AND AUTOMATION WITH GIT"
+                  "title": "011 TROUBLESHOOTING AND RECOVERY"
                 }
               ],
               "title": "ADVANCED GIT AND GITHUB FOR LINUX MASTERY"
