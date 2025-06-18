@@ -55,7 +55,10 @@
     "iconColor": "#00ffff"
   },
   "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md": "LiHome",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/ADVANCED GIT AND GITHUB FOR LINUX MASTERY.md": "FasTableList",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/ADVANCED GIT AND GITHUB FOR LINUX MASTERY.md": {
+    "iconName": "FasTableList",
+    "iconColor": "#ff00ff"
+  },
   "AI Learning/ADVANCED GIT AND GITHUB MASTERY/ADVANCED GIT AND GITHUB MASTERY.md": {
     "iconName": "FasTableList",
     "iconColor": "#ff00ff"
@@ -2483,5 +2486,144 @@
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   },
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES": "LiFolderTree"
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.1.1 Blobs.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/003 COLLABORATION AND REMOTE WORKFLOWS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/006 PERFORMANCE OPTIMIZATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/011 TROUBLESHOOTING AND RECOVERY": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.1 Git Objects.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.1.2 Trees.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.1.3 Commits.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.1.4 Tags.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.1.5 Object Hashing (SHA-1).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.1.6 Object Storage.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.1.7 Loose Objects vs Packfiles.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.2 Git Reference.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.2.1 Branches.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.2.2 Tags.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.2.3 Remote Tracking Branches.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.2.4 HEAD.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.2.5 Symbolic Reference.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.2.6 Reflogs⁚ Your Git Time Machine.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.2.7 Understanding .git⁄refs.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.3 Index (Staging Area).md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.3.1 Purpose of the Index.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.3.2 Index Structure.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.3.3 Staging and Unstaging.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.3.4 Resolving Conflicts in the Index.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.3.5 Index Manipulation Commands.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.3.6 Advanced Index Options.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  }
 }
