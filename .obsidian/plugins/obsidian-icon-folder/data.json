@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiActivitySquare",
       "RiFilePaperFill",
       "📄",
       "RiBookReadLine",
@@ -2625,5 +2626,46 @@
   "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/001 GIT INTERNALS AND ARCHITECTURES/1.3.6 Advanced Index Options.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
-  }
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1 Git Configuration.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.1 Local Configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.2 Global Configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.3 System Configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.4 Configuration Precedence.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.5 Configuration Files.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.6 Using ‘git config’ Command.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.7 Conditional Configuration.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2 Branching Strategies.md": "RiBookReadLine",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.1 GitFlow.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.2 GitHub Flow.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.3 GitLab Flow.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.4 Trunk-Based Development.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.6 Custom Branching Models.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.5 Choosing a Strategy.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3 Advanced Merging Techniques.md": "RiBookReadLine",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.1 Octopus Merges.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.2 Merge Strategies (Recursive, Resolve, Ours, Subtress).md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.3 Merge Optiions (e.g. ‘-Xours’, -Xtheirs’).md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.5 Merge Conflict Visualization Tools.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.4 Handling Complex Merge Conflicts.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.6 Post-Merge Cleanup.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4 Rebasing.md": "RiBookReadLine",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.1 Interactive Rebasing.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.2 Rebasing vs. Merging⁚ Choosing the Right Path.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.3 Rebasing Best Practices.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.4 Recovering from a Bad Rebase.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.5 Rebasing with Multiple Branches.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.6 Rebasing and Upstream Changes.md": "RiFilePaperFill"
 }
