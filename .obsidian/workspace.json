@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.1 GitFlow.md",
+                "file": "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.5 Sharing Hooks with Teams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2.1 GitFlow"
+              "title": "4.4.5 Sharing Hooks with Teams"
             }
           }
         ]
@@ -152,9 +152,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.5 Sharing Hooks with Teams.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 4.4.5 Sharing Hooks with Teams"
             }
           },
           {
@@ -191,34 +193,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "bab566720dae8477",
+  "active": "d679895c2cf7e441",
   "lastOpenFiles": [
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.6 Rebasing and Upstream Changes.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.5 Rebasing with Multiple Branches.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.4 Recovering from a Bad Rebase.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.3 Rebasing Best Practices.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.2 Rebasing vs. Merging⁚ Choosing the Right Path.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4.1 Interactive Rebasing.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.4 Rebasing.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.6 Post-Merge Cleanup.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.5 Merge Conflict Visualization Tools.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.4 Handling Complex Merge Conflicts.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.3 Merge Optiions (e.g. ‘-Xours’, -Xtheirs’).md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.2 Merge Strategies (Recursive, Resolve, Ours, Subtress).md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3.1 Octopus Merges.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.3 Advanced Merging Techniques.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.5 Choosing a Strategy.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.6 Custom Branching Models.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.4 Trunk-Based Development.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.3 GitLab Flow.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.2 GitHub Flow.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2 Branching Strategies.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.2.1 GitFlow.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.7 Conditional Configuration.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.6 Using ‘git config’ Command.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.5 Configuration Files.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.4 Configuration Precedence.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/002 ADVANCED BRANCHING AND MERGING/2.1.3 System Configuration.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.4 Version Controlling Hook.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.2 Hook Configuration and Management.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.3 Debugging Hooks.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.1 Writing Custom Hooks in Shell Script, Python, etc..md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4 Custom Hooks.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.4 Implementing Access Control.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.5 Enforcing Coding Standards.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.3 ‘post-receive’.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.2 ‘update’ Hook.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.1 ‘pre-receive’ Hook.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3 Server-Side Hooks.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.6 ‘post-rewrite’.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.5 ‘pre-rebase’ Hook.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.3 ‘comit-msg’ Hook.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.6 Licensing Considerations.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.4 ‘post-commit’.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.2 ‘prepare-commit-mag’.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.1 ‘pre-commit’ ⁚ Automating Code Quality Checks.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2 Client-Side Hooks.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.5 Handling Contribution Guidelines.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.4 Upstream Synchronization.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.3 Maintaining a Fork.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.2 Contributing to Open Source Projects.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.1 Forking Repositories.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1 Forking and Contributing.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/003 COLLABORATION AND REMOTE WORKFLOWS/3.2 Advanced Remote Management.md",
     "DSC00487.jpg",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT",
     "WhatsApp Image 2025-06-15 at 02.16.35_d1980b66.jpg",
