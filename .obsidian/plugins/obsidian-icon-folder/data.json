@@ -3941,5 +3941,201 @@
   "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.7 Dotfiles for GUI Applications.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.1 Why Use Git for Dotfiles⁇.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.1.1 Version Control Benefits.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.1.2 Collaboration and Sharing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.1.3 Backup and Recovery.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.1.4 Tracking Changes.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.1.5 Experimentation and Rollback.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.1.6 Synchronization Across Multiple Machines.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.1.7 Automation and Scripting.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.2 Git Installation and Configuration.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.2.1 Installing Git on Linux.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.2.2 Configuration User Information (name, email).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.2.3 Setting Up SSH Keys for Authentication.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.2.4 Configuring Git Editor.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.2.6 Git GUI Clients (Optional).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.2.5 Git Aliases.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS/2.2.7 Git Configuration Files (.gitconfig).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1 Core Git Commands.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1.1 git init (Initializing a Repository).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1.2 git clone (Cloning a Repository).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1.3 git add (Staging Changes).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1.4 git commit (Committing Changes).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1.5 git status (Checking Repository Status).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1.6 git diff (Viewing Changes).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1.7 git log (Viewing Commit History).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.1.8 git remote (Managing Remote Repositories).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.2 Creating a Dotfiles Repository.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.2.1 Choosing a Repository Name.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.2.2 Deciding on Repository Structure.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.2.3 Creating a Bare Repository (Recommended).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.2.4 Initializing a New Repository.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.2.5 Ignoring Files (Using .gitignore).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.2.6 Adding Initial Dotfiles.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP/3.2.7 Making the First Commit.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.1 Structure Your Dotfiles Repository.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.1.1 Flat Structure vs Directory-Based Structure.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.1.2 Using Subdirectories for Organization.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.1.3 Managing Application-Specific Dotfiles.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.1.4 Handling Sensitive Information (Password, API Keys).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.1.5 Using Symbolic Links.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.1.6 Using a Dotfiles Manager.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.1.7 Cross-Platform Compatibility.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.2 Adding and Committing Dotfiles.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.2.1 Staging Dotfiles for Commit.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.2.2 Writing Meaningful Commit Message.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.2.3 Committing Changes Regularly.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.2.4 Handling Large Files.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.2.5 Resolving Conflicts.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.2.6 Using Git Attributes.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT/4.2.7 Automating Commit Message.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
   }
 }
