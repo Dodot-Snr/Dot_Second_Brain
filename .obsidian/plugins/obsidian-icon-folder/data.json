@@ -3167,31 +3167,452 @@
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   },
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1 Profiting Git Commands.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.1 Using ‘git time-machine.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.3 Optimizing Git Configuration.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.2 Identifying Slow Operations.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.4 Hardware Considerations.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.5 Monitoring Git Performance.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2 Authentication and Authorization.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.1 SSH Keys.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.2 HTTPS Authentication.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.3 Two-Factor Authentication.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.4 Git Credentials Management.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.5 Access Control Lists (ACLs).md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.6 Role-Based Access Control (RBAC).md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3 Data Protection.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.1 Encryption at Rest.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.2 Encryption in Transit.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.3 Data Loss Prevention (DLP).md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.5 Disaster Recovery Planning.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.4 Regular Backups.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.6 Secure Configuration Management.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4 Vulnerability Management.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.1 Identifying and Patching Git Vulnerabilities.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.3 Security Audits.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.2 Dependency Scanning.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.4 Penetration Testing.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.5 Incident Response.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.6 Staying Up-to-Date with Security Advisories.md": "RiFilePaperFill"
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1 Profiting Git Commands.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.1 Using ‘git time-machine.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.3 Optimizing Git Configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.2 Identifying Slow Operations.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.4 Hardware Considerations.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1.5 Monitoring Git Performance.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2 Authentication and Authorization.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.1 SSH Keys.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.2 HTTPS Authentication.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.3 Two-Factor Authentication.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.4 Git Credentials Management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.5 Access Control Lists (ACLs).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.2.6 Role-Based Access Control (RBAC).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3 Data Protection.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.1 Encryption at Rest.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.2 Encryption in Transit.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.3 Data Loss Prevention (DLP).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.5 Disaster Recovery Planning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.4 Regular Backups.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4 Vulnerability Management.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.1 Identifying and Patching Git Vulnerabilities.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.3 Security Audits.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.2 Dependency Scanning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.4 Penetration Testing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.5 Incident Response.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.4.6 Staying Up-to-Date with Security Advisories.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.3.6 Secure Configuration Management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.1 Secure Coding Practices.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.1.1 Avoiding Hardcoded Secrets.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.1.2 Input Validation.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.1.3 Output Encoding.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.1.4 Secure Configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.1.6 Code Review for Security.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.1.5 Least Privilege Principle.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.2 Understanding the Linux Kernel Workflow.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.2.1 Mailing List Based Development.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.2.2 Patch Submission Process.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.2.4 Linus Torvald’s Role.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.2.3 Code Review Process.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.2.5 Kernel Coding Style.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.2.6 Community Guidelines.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.3 Using Git with the Linux Kernel.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.3.2 Branching and Patch Creation.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.3.1 Cloning the Kernel Repository.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.3.3 Generating Patches with ‘git format-patch’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.3.4 Applying Patches with ‘git am’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.3.5 Managing Patch Series.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.3.6 Using ‘git send-email’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.4 Kernel Development Tools.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.4.1 Coccinelle.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.4.3 Checkpatch.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.4.2 Sparse.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.4.4 Kernel CI.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.4.6 Debugging Techniques.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/008 GIT WORKFLOWS FOR LIUNX KERNEL DEVELOPMENT/8.4.5 Using Static Analysis Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.1 Contributing to the Kernel.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.1.1 Finding Bugs and Issues.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.1.2 Writing Clear Commit Messages.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.1.4 Participating in Discussions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.1.3 Following the Kernel Documentation.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.1.5 Getting Your Patches Accepted.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.1.6 Maintaining Kernel Code.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.2 GitHub Actions Deep Dive.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.2.2 Using Third-Party Actions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.2.1 Writing Custom Actions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.2.4 Secrets Management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.2.3 Workflow Syntax and Configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.2.5 Environment Variables.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.2.6 Triggering Workflows.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.2.7 Monitoring and Debugging Actions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.3.1 Publishing and Consuming Packages.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.3 GitHub Packages.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.3.2 Supported Package Formants (npm, Maven, NuGet, Docker).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.3.4 Versioning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.3.5 Package Metadata.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.3.6 Integration with GitHub Actions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.4 GitHub Pages.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.4.1 Creating Static Websites.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.4.3 Custom Domains.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.4.2 Using Jekyll and other Static Site Generators.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.4.4 HTTPS Configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.4.5 GitHub Pages Workflow.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.4.6 Deploying from GitHub Actions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/009 GITHUB ADVANCED FEATURES/9.3.3 Access Control.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.1 GitHub Advanced Security.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.1.1 Code Scanning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.1.2 Secret Scanning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.1.4 Security Alerts.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.1.3 Dependency Review.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.1.5 Integrating with Security Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.2 Infrastructure as Code (IaC).md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.1.6 Configurating Security Policies.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.2.1 Version Controlling Infrastructure Configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.2.2 Using Git with Terraform, Ansible, Chef, Puppet.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.2.3 Managing Infrastructure Changes.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.2.4 Automating Infrastructure Deployment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.2.6 GitOps Principles.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.2.5 Infrastructure Testing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.3 Continuous Integration⁄Continuous Deployment (CI⁄CD).md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.3.1 Integrating Git with CI⁄CD Pipelines.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.3.3 Using Git Hooks for CI⁄CD.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.3.2 Automating Builds, Tests and Deployments.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.3.5 Release Management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.3.4 Branching Strategies for CI⁄CD.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.3.6 Monitoring and Rollback Strategies.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.4 Configuration Management.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.4.1 Version Controlling Configuration Files.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.4.4 Automating Configuration Changes.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.4.3 Managing Secrets and Credentials.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.4.2 Using Git with Configuration Management Tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.4.5 Configuration Drift Detection.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/010 GIT AND DEVOPS/10.4.6 Compliance and Auditing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  }
 }
