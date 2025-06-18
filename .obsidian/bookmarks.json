@@ -284,61 +284,61 @@
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "1_FUNDAMENTELS OF DOTFILES"
+                  "title": "001 FUNDAMENTELS OF DOTFILES"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "2_GIT BASICS"
+                  "title": "002 IT BASICS"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "3_DOTFILES REPOSITORY SETUP"
+                  "title": "003 DOTFILES REPOSITORY SETUP"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "4_MANAGING DOTFILES WITH GIT"
+                  "title": "004 MANAGING DOTFILES WITH GIT"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "5_ADVANCED GIT TECHNIQUES"
+                  "title": "005 ADVANCED GIT TECHNIQUES"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "6_DOTFILES DEPLOYMENT AND SYNCHRONIZATION"
+                  "title": "006 DOTFILES DEPLOYMENT AND SYNCHRONIZATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "7_DOTFILES MANAGERS"
+                  "title": "007 DOTFILES MANAGERS"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "8_SHELL SCRIPTING FOR DOTFILES"
+                  "title": "008 SHELL SCRIPTING FOR DOTFILES"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "9_SECURITY CONSIDERATION"
+                  "title": "009 SECURITY CONSIDERATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749325912179,
                   "items": [],
-                  "title": "10_ADVANCED TOPICS"
+                  "title": "010 ADVANCED TOPICS"
                 }
               ],
               "title": "DOTFILES GIT FOR LINUX"

@@ -65,7 +65,10 @@
     "iconColor": "#ff00ff"
   },
   "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md": "LiHome",
-  "AI Learning/DOTFILES GIT FOR LINUX/DOTFILES GIT FOR LINUX.md": "LiHome",
+  "AI Learning/DOTFILES GIT FOR LINUX/DOTFILES GIT FOR LINUX.md": {
+    "iconName": "FasTableList",
+    "iconColor": "#ff00ff"
+  },
   "AI Learning/GIT AND GITHUB MASTERY/GIT AND GITHUB MASTERY.md": {
     "iconName": "FasTableList",
     "iconColor": "#ff00ff"
@@ -3865,6 +3868,78 @@
   },
   "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5 Git API.md": {
     "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/002 IT BASICS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/003 DOTFILES REPOSITORY SETUP": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/004 MANAGING DOTFILES WITH GIT": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/005 ADVANCED GIT TECHNIQUES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/006 DOTFILES DEPLOYMENT AND SYNCHRONIZATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/007 DOTFILES MANAGERS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/008 SHELL SCRIPTING FOR DOTFILES": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/009 SECURITY CONSIDERATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1 What are Dotfiles⁇.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.1 Definition and Purpose.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.2 Types of Dotfiles.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.3 Location of Dotfiles.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.4 Importance of Dotfiles Management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.5 Examples of Common Dotfiles.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.6 Dotfiles for Different Shells (Bash, Zsh, Fish).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.7 Dotfiles for GUI Applications.md": {
+    "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   }
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5.3 Using the GitLab API.md",
-                "mode": "preview",
+                "file": "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1 What are Dotfiles⁇.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.5.3 Using the GitLab API"
+              "title": "1.1 What are Dotfiles⁇"
             }
           }
         ]
@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/007 SECURITY BEST PRACTICES/7.1 Profiting Git Commands.md"
+                "file": "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1 What are Dotfiles⁇.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 7.1 Profiting Git Commands"
+              "title": "File properties for 1.1 What are Dotfiles⁇"
             }
           },
           {
@@ -193,11 +193,27 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "18627991beab0301",
+  "active": "fd9658eaa489a5cd",
   "lastOpenFiles": [
+    "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.1 Definition and Purpose.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.7 Dotfiles for GUI Applications.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.6 Dotfiles for Different Shells (Bash, Zsh, Fish).md",
+    "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.5 Examples of Common Dotfiles.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.4 Importance of Dotfiles Management.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.3 Location of Dotfiles.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1.2 Types of Dotfiles.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/001 FUNDAMENTELS OF DOTFILES/1.1 What are Dotfiles⁇.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/DOTFILES GIT FOR LINUX.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3 Collaboration and Sharing.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/ADVANCED GIT AND GITHUB FOR LINUX MASTERY.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/ADVANCED GIT AND GITHUB MASTERY.md",
+    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/001 GIT FUNDAMENTEL/1.3 Branching and Merging.md",
+    "AI Learning/GIT AND GITHUB MASTERY/001 GIT FUNDAMENTALS/1.1 Introduction to Version Control.md",
+    "AI Learning/GIT AND GITHUB MASTERY/GIT AND GITHUB MASTERY.md",
+    "Notes - Messages For Commit Git.md",
+    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5.3 Using the GitLab API.md",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5.5 Building Custom Git Integrations.md",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5.6 Webhooks and Event Handling.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5.3 Using the GitLab API.md",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5.4 Automating Repository Management.md",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5.1 Integrating with Git Repositories Programmatically.md",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.5.2 Using the GitHub AP.md",
@@ -205,22 +221,6 @@
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.4.6 Building Git Extensions.md",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.4.5 Data Analysis with Git History.md",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.4.3 Creating Custom Git Tools.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.4.4 Integrating with APIs.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.4.2 Automating Git Tasks with Python.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.4.1 Using GitPython Library.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.4 Python Scripting with Git.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.3.6 Integrating with Other Tools.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.3.5 Scripting for CI⁄CD.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.3.4 Handling Errors an d Exceptions.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.3.2 Writing Scripts for Common Tasks.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.3.3 Using Git Commands in Scripts.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.3 Shell Scripting with Git.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.3.1 Automating git Workflows.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.2.5 Alias Configuration.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.2.6 Advanced Alias Techniques.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.2.4 Using Aliases for Common Tasks.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.2.3 Sharing Aliases with Teams.md",
-    "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT/12.2.2 Simplifying Complex Commands.md",
     "DSC00487.jpg",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT",
     "WhatsApp Image 2025-06-15 at 02.16.35_d1980b66.jpg",
