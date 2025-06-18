@@ -2851,30 +2851,134 @@
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   },
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1 Forking and Contributing.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.1 Forking Repositories.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.2 Contributing to Open Source Projects.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.3 Maintaining a Fork.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.4 Upstream Synchronization.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.5 Handling Contribution Guidelines.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.6 Licensing Considerations.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2 Client-Side Hooks.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.1 ‘pre-commit’ ⁚ Automating Code Quality Checks.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.2 ‘prepare-commit-mag’.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.4 ‘post-commit’.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.3 ‘comit-msg’ Hook.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.5 ‘pre-rebase’ Hook.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.6 ‘post-rewrite’.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3 Server-Side Hooks.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.1 ‘pre-receive’ Hook.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.2 ‘update’ Hook.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.3 ‘post-receive’.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.5 Enforcing Coding Standards.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.4 Implementing Access Control.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4 Custom Hooks.md": "RiBookReadLine",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.1 Writing Custom Hooks in Shell Script, Python, etc..md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.3 Debugging Hooks.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.2 Hook Configuration and Management.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.4 Version Controlling Hook.md": "RiFilePaperFill",
-  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.5 Sharing Hooks with Teams.md": "RiFilePaperFill"
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1 Forking and Contributing.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.1 Forking Repositories.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.2 Contributing to Open Source Projects.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.3 Maintaining a Fork.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.4 Upstream Synchronization.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.5 Handling Contribution Guidelines.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.1.6 Licensing Considerations.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2 Client-Side Hooks.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.2 ‘prepare-commit-mag’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.4 ‘post-commit’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.3 ‘comit-msg’ Hook.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.5 ‘pre-rebase’ Hook.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.6 ‘post-rewrite’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3 Server-Side Hooks.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.1 ‘pre-receive’ Hook.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.2 ‘update’ Hook.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.3 ‘post-receive’.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.5 Enforcing Coding Standards.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.3.4 Implementing Access Control.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4 Custom Hooks.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.1 Writing Custom Hooks in Shell Script, Python, etc..md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.3 Debugging Hooks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.2 Hook Configuration and Management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.4 Version Controlling Hook.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.4.5 Sharing Hooks with Teams.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/004 GIT HOOKS/4.2.1 ‘pre-commit’ ⁚ Automating Code Quality Checks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.1 Hook Management Tools.md": "RiBookReadLine",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.1.1 Husky.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.1.2 Lefthook.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.1.3 Pre-commit framework.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.1.4 Automating Hook Installation.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.1.5 Integration Hooks into CI⁄CD.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.2 Git Bisect.md": "RiBookReadLine",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.2.1 Finding Regression Bugs.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.2.2 Using ‘git bisect start’, ‘git bisect bad’, ‘git bisect good’.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.2.4 Bisecting Merge Commits.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.2.3 Automating Bisect with Scripts.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.3 Git Filter-Branch.md": "RiBookReadLine",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.2.5 Visualizing Bisect Results.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.3.1 Rewriting History with 'git filter-branch'.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.3.2 Removing Sensitive Data.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.3.3 Changing Author Information.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.3.4 Splitting a Repository.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.3.5 Filtering Large Files.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.4 Git Attributes.md": "RiBookReadLine",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.3.6 Using ‘git filter-branch’ Safely.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.4.1 Defining Attributes for Files and Directories.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.4.2 ‘eol’, ‘ident’, ‘export-ignore’.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.4.3 Configuration Merge Strategies.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.4.5 Using ‘.gitattributes’ File.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.4.4 Binary File Handling.md": "RiFilePaperFill",
+  "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/005 ADVANCED GIT COMMANDS AND TECHNIQUES/5.4.6 Applying Attributes Globally.md": "RiFilePaperFill"
 }
