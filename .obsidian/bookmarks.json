@@ -412,67 +412,61 @@
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "1_LINUX FUNDAMENTALS"
+                  "title": "001 LINUX FUNDAMENTALS"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "2_SYSTEM ADMINISTRATION"
+                  "title": "002 SYSTEM ADMINISTRATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "3_ADVANCE COMMAND LINE"
+                  "title": "003 ADVANCE COMMAND LINE"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "4_KERNAL AND HARDWARE"
+                  "title": "004 KERNAL AND HARDWARE"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "5_NETWORKING DEEP DIVE"
+                  "title": "005 NETWORKING DEEP DIVE"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "6_AUTOMATIUON AND ORCHESTRATION"
+                  "title": "006 AUTOMATIUON AND ORCHESTRATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "7_PERFORMANCE TUNING"
+                  "title": "007 PERFORMANCE TUNING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "8_SECURITY HARDENING"
+                  "title": "008 SECURITY HARDENING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "9_HIGH AVAILABLITY AND CLUSTURING"
+                  "title": "010 VIRTUALIZATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749393699573,
                   "items": [],
-                  "title": "10_VIRTUALIZATION"
-                },
-                {
-                  "type": "group",
-                  "ctime": 1749393699573,
-                  "items": [],
-                  "title": "11_CLOUD COMPUTING"
+                  "title": "011 CLOUD COMPUTING"
                 }
               ],
               "title": "ADVANCE LINUX MASTERY"
@@ -491,67 +485,67 @@
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "1_LINUX FUNDAMENTALS"
+                  "title": "001 LINUX FUNDAMENTALS"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "2_SYSTEM CONFIGURATION"
+                  "title": "002 SYSTEM CONFIGURATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "3_PACKAGE  MANAGEMENT"
+                  "title": "003 PACKAGE  MANAGEMENT"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "4_DESKTOP ENVIROMENT CUSTOMIZATION"
+                  "title": "004 DESKTOP ENVIROMENT CUSTOMIZATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "5_SECURITY HARDENING"
+                  "title": "005 SECURITY HARDENING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "6_NETWORKING"
+                  "title": "006 NETWORKING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "7_SYSTEM MONITORING AND TUNING"
+                  "title": "007 SYSTEM MONITORING AND TUNING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "8_AUTOMATION AND SCRIPTING"
+                  "title": "008 AUTOMATION AND SCRIPTING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "9_VIRTULIZATION AND CONTAINERIZATION"
+                  "title": "009 VIRTULIZATION AND CONTAINERIZATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "10_FILE SYSTEM AND STORAGE"
+                  "title": "010 FILE SYSTEM AND STORAGE"
                 },
                 {
                   "type": "group",
                   "ctime": 1749394442692,
                   "items": [],
-                  "title": "11_TROUBLESHOOTING AND DEBUGGING"
+                  "title": "011 TROUBLESHOOTING AND DEBUGGING"
                 }
               ],
               "title": "DEEP MASTERY CUSTOMIZE LINUX"

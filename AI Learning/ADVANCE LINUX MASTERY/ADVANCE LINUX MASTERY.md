@@ -2,8 +2,8 @@
 	- [[1.1 Command Line Basics]]
 2. SYSTEM ADMINISTRATION
 	- [[2.1 System Architecture]]
-	- [[AI Learning/ADVANCE LINUX MASTERY/2_SYSTEM ADMINISTRATION/2.2 User Management]]
-	- [[AI Learning/ADVANCE LINUX MASTERY/2_SYSTEM ADMINISTRATION/2.3 Package Management]]
+	- [[AI Learning/ADVANCE LINUX MASTERY/002 SYSTEM ADMINISTRATION/2.2 User Management]]
+	- [[AI Learning/ADVANCE LINUX MASTERY/002 SYSTEM ADMINISTRATION/2.3 Package Management]]
 	- [[2.4 Service management]]
 	- [[2.5 Storage Management]]
 	- [[2.6 Network]]

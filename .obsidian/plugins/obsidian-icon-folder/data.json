@@ -55,7 +55,10 @@
     "iconName": "LiFolder",
     "iconColor": "#00ffff"
   },
-  "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md": "LiHome",
+  "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md": {
+    "iconName": "FasTableList",
+    "iconColor": "#ff00ff"
+  },
   "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/ADVANCED GIT AND GITHUB FOR LINUX MASTERY.md": {
     "iconName": "FasTableList",
     "iconColor": "#ff00ff"
@@ -64,7 +67,10 @@
     "iconName": "FasTableList",
     "iconColor": "#ff00ff"
   },
-  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md": "LiHome",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md": {
+    "iconName": "FasTableList",
+    "iconColor": "#ff00ff"
+  },
   "AI Learning/DOTFILES GIT FOR LINUX/DOTFILES GIT FOR LINUX.md": {
     "iconName": "FasTableList",
     "iconColor": "#ff00ff"
@@ -4580,5 +4586,93 @@
   "AI Learning/DOTFILES GIT FOR LINUX/007 DOTFILES MANAGERS/7.1.5 Using a CI⁄CD Pipeline for Deployment.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/001 LINUX FUNDAMENTALS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/002 SYSTEM ADMINISTRATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/003 ADVANCE COMMAND LINE": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/004 KERNAL AND HARDWARE": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/005 NETWORKING DEEP DIVE": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/006 AUTOMATIUON AND ORCHESTRATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
   }
 }
