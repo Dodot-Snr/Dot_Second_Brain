@@ -25,7 +25,7 @@
 	- [[7.2 System Profiling]]
 8. SECURITY HARDENING
 	- [[8.1 Kernel tuning]]
-	- 8.2 System hardening
+	- [[8.2 System hardening]]
 9. HIGH AVAILABLITY AND CLUSTURING
 	- [[9.1 Application Security]]
 	- [[9.2 Load Balancing]]

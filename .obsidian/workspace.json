@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Ninth Word.md",
+                "file": "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.1 Xen architecture.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Ninth Word"
+              "title": "11.1.1 Xen architecture"
             }
           }
         ]
@@ -193,33 +193,34 @@
   },
   "active": "fd9658eaa489a5cd",
   "lastOpenFiles": [
-    "The Fourth Word - The Prescribed Prayers.md",
+    "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.1 acemaker.md",
+    "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1. Secure coding practice.md",
+    "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.1 Sysctl configuration.md",
+    "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.1 Docker Fundamentals.md",
     "DOT_HOME.md",
-    "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2 Load Balancing.md",
-    "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1 Application Security.md",
+    "AI Learning/ADVANCE LINUX MASTERY/006 AUTOMATIUON AND ORCHESTRATION/6.1.1 DHCP server configuration.md",
+    "AI Learning/ADVANCE LINUX MASTERY/005 NETWORKING DEEP DIVE/5.1.1 Udev rules.md",
+    "AI Learning/ADVANCE LINUX MASTERY/004 KERNAL AND HARDWARE/4.2.7 Kernel modules signing.md",
+    "AI Learning/ADVANCE LINUX MASTERY/004 KERNAL AND HARDWARE/4.1.1 Top and htop.md",
+    "AI Learning/ADVANCE LINUX MASTERY/003 ADVANCE COMMAND LINE/3.1.1 User authentication.md",
+    "AI Learning/ADVANCE LINUX MASTERY/002 SYSTEM ADMINISTRATION/2.1.1 Kernel overview.md",
+    "AI Learning/ADVANCE LINUX MASTERY/001 LINUX FUNDAMENTALS/1.1.1 Navigation (cd, Is, pwd).md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4 GCP.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.7 Cloud Function.md",
+    "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.6 Cloud Deployment.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.5 Cloud Monitoring.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.4 Cloud IAM.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.3 Virtual Private Cloud.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.2 Cloud Storage.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.1 Compute Engine.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3 Azure.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.7 Azure Functions.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.6 Azure Resource Manager.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.5 Azure Monitor.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.4 Azure Active Directory.md",
+    "7.2.3 Disk I",
     "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING",
-    "AI Learning/ADVANCED GIT AND GITHUB MASTERY/010 GIT SECURITY/10.1 Conflict Resolution.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.1.1 Introduction to Systemd Journal.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/006 SYSTEM MONITORING/6.1.1 Automating Repetitive Tasks.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING/5.1.1 Introduction to Firewalls.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING/5.1.3 Firewalld (Zones, services, Rules).md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/004 SECURITY/4.1.1 Connecting to Remote Servers.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/003 NETWORKING/3.1.1 Viewing Running Processes (ps, top, htop).md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/002 SYSTEM ADMINISTRATION/2.1.1 The Root Directory (⁄).md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/002 SYSTEM ADMINISTRATION/2.1 File System Structure.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/001 FUNDAMENTALS/1.1.1 History of Linux.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/007 DOTFILES MANAGERS/7.1 Automated Deployment.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4 Troubleshooting.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.7 Seeking Help from the Linux Community.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.6 Analyzing Crash Dumps.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.5 Using Debugging Tools (Strace, Itrace).md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.4 Troubleshooting Performance Issues.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.3 Troubleshooting Network Issues.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.2 Troubleshooting Boot Issues.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.1 Identifying Common Linux Problems.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3 Kernel Management.md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.7 Kernel Debugging (Basics).md",
-    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.6 Boot Loaders (GRUB).md",
     "6.2.2 Log File Locations (/var",
     "6.2.2 Log File Locations (",
     "2.1.1 The Root Directory (",
@@ -231,7 +232,6 @@
     "WhatsApp Image 2025-06-14 at 00.38.30_c94f84d2.jpg",
     "Update GitHub Notes.lnk",
     "powershell.exe.lnk",
-    "update-github.ps1.lnk",
-    "New shortcut.lnk"
+    "update-github.ps1.lnk"
   ]
 }

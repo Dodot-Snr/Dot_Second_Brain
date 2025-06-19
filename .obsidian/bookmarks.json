@@ -404,69 +404,81 @@
               "items": [
                 {
                   "type": "file",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "path": "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md",
                   "subpath": "#^-"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "001 LINUX FUNDAMENTALS"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "002 SYSTEM ADMINISTRATION"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "003 ADVANCE COMMAND LINE"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "004 KERNAL AND HARDWARE"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "005 NETWORKING DEEP DIVE"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "006 AUTOMATIUON AND ORCHESTRATION"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "007 PERFORMANCE TUNING"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "008 SECURITY HARDENING"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
+                  "items": [],
+                  "title": "009 HIGH AVAILABLITY AND CLUSTURING"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "010 VIRTUALIZATION"
                 },
                 {
                   "type": "group",
-                  "ctime": 1749393699573,
+                  "ctime": 1750323556911,
                   "items": [],
                   "title": "011 CLOUD COMPUTING"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1750323556911,
+                  "path": "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md",
+                  "subpath": "#^-"
                 }
               ],
               "title": "ADVANCE LINUX MASTERY"
