@@ -73,7 +73,10 @@
     "iconName": "FasTableList",
     "iconColor": "#ff00ff"
   },
-  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/LINUX MASTERY⁚ A BEGINNER’S GUIDE.md": "LiHome",
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/LINUX MASTERY⁚ A BEGINNER’S GUIDE.md": {
+    "iconName": "FasTableList",
+    "iconColor": "#ff00ff"
+  },
   "DOT_HOME.md": {
     "iconName": "SiHomeassistantcommunitystore",
     "iconColor": "#00ff28"
@@ -4543,6 +4546,38 @@
     "iconColor": "#ffff00"
   },
   "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.7 Maintaining a Public Dotfiles Repository.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/001 FUNDAMENTALS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/002 SYSTEM ADMINISTRATION": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/003 NETWORKING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/004 SECURITY": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/006 SYSTEM MONITORING": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS": {
+    "iconName": "LiFolderTree",
+    "iconColor": "#ff00ff"
+  },
+  "AI Learning/DOTFILES GIT FOR LINUX/007 DOTFILES MANAGERS/7.1.5 Using a CI⁄CD Pipeline for Deployment.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   }

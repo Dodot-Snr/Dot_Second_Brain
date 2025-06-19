@@ -3,8 +3,8 @@
 	- [[1.2 Basic Linux Commands]]
 2. SYSTEM ADMINISTRATION
 	- [[2.1 File System Structure]]
-	- [[AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/2_SYSTEM ADMINISTRATION/2.2 User Management]]
-	- [[AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/2_SYSTEM ADMINISTRATION/2.3 Package management]]
+	- [[AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/002 SYSTEM ADMINISTRATION/2.2 User Management]]
+	- [[AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/002 SYSTEM ADMINISTRATION/2.3 Package management]]
 3. NETWORKING
 	- [[3.1 Process Management]]
 	- [[3.2 Basic Networking Concepts]]

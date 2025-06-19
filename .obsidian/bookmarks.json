@@ -357,43 +357,43 @@
                   "type": "group",
                   "ctime": 1749327689821,
                   "items": [],
-                  "title": "1_FUNDAMENTALS"
+                  "title": "001 FUNDAMENTALS"
                 },
                 {
                   "type": "group",
                   "ctime": 1749327689821,
                   "items": [],
-                  "title": "2_SYSTEM ADMINISTRATION"
+                  "title": "002 SYSTEM ADMINISTRATION"
                 },
                 {
                   "type": "group",
                   "ctime": 1749327689821,
                   "items": [],
-                  "title": "3_NETWORKING"
+                  "title": "003 NETWORKING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749327689821,
                   "items": [],
-                  "title": "4_SECURITY"
+                  "title": "004 SECURITY"
                 },
                 {
                   "type": "group",
                   "ctime": 1749327689821,
                   "items": [],
-                  "title": "5_SCRIPTING"
+                  "title": "005 SCRIPTING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749327689821,
                   "items": [],
-                  "title": "6_SYSTEM MONITORING"
+                  "title": "006 SYSTEM MONITORING"
                 },
                 {
                   "type": "group",
                   "ctime": 1749327689821,
                   "items": [],
-                  "title": "7_ADVANCE TOPICS"
+                  "title": "007 ADVANCE TOPICS"
                 }
               ],
               "title": "LINUX MASTERY⁚ A BEGINNER’S GUIDE"

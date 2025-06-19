@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "58b88cd2aa76f66b",
+        "id": "c8fd0e9fcbbd9547",
         "type": "tabs",
         "children": [
           {
-            "id": "129cdfbde0d7c4a6",
+            "id": "7b41ea58949acde4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.7 Maintaining a Public Dotfiles Repository.md",
+                "file": "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.1.1 Introduction to Systemd Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.3.7 Maintaining a Public Dotfiles Repository"
+              "title": "7.1.1 Introduction to Systemd Journal"
             }
           }
         ]
@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.7 Maintaining a Public Dotfiles Repository.md"
+                "file": "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.1.1 Introduction to Systemd Journal.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 10.3.7 Maintaining a Public Dotfiles Repository"
+              "title": "File properties for 7.1.1 Introduction to Systemd Journal"
             }
           },
           {
@@ -193,34 +193,37 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "129cdfbde0d7c4a6",
+  "active": "fd9658eaa489a5cd",
   "lastOpenFiles": [
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.6 Providing Feedback.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.4 Using Pull Requests.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.5 Reviewing Code.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.3 Following Best Practice for Collaboration.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.2 Contributing to Other Dotfiles Repositories.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.1 Sharing Your Dotfiles Repository.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3 Collaboration and Sharing.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.2.7 Using a Configuration Management Tool.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.2.6 Creating Platform-Specific Branches.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.2.5 Testing on Different Platforms.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.2.3 Using Environment Variables.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.2.4 Using a Cross-Platform Dotfiles Manager.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.2.2 Using Conditional Statements.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.2.1 Handling Platform-Specific Differences.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.2 Cross-Platform Dotfiles.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.1.7 Monitoring for Security Vulnerabilities.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.1.6 Using a Strong Password.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.1.4 Regularly Auditing Your Repository.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.1.3 Enabling Two-Factor Authentication.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.1.5 Being Careful About Sharing Your Repository.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.1.2 Using SSH Keys for Authentication.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.1.1 Keeping Your Repository Private.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.1 Repository Security.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/010 ADVANCED TOPICS/10.3.7 Maintaining a Public Dotfiles Repository.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/009 SECURITY CONSIDERATION/9.2.7 Rotating Keys Regularly.md",
-    "AI Learning/DOTFILES GIT FOR LINUX/009 SECURITY CONSIDERATION/9.2.6 Using SOPS (Secret Operation).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/006 SYSTEM MONITORING/6.1.1 Automating Repetitive Tasks.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING/5.1.1 Introduction to Firewalls.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING/5.1.3 Firewalld (Zones, services, Rules).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/004 SECURITY/4.1.1 Connecting to Remote Servers.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/003 NETWORKING/3.1.1 Viewing Running Processes (ps, top, htop).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/002 SYSTEM ADMINISTRATION/2.1.1 The Root Directory (⁄).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/002 SYSTEM ADMINISTRATION/2.1 File System Structure.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/001 FUNDAMENTALS/1.1.1 History of Linux.md",
+    "AI Learning/DOTFILES GIT FOR LINUX/007 DOTFILES MANAGERS/7.1 Automated Deployment.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4 Troubleshooting.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.7 Seeking Help from the Linux Community.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.6 Analyzing Crash Dumps.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.5 Using Debugging Tools (Strace, Itrace).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.4 Troubleshooting Performance Issues.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.3 Troubleshooting Network Issues.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.2 Troubleshooting Boot Issues.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.1 Identifying Common Linux Problems.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3 Kernel Management.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.7 Kernel Debugging (Basics).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.6 Boot Loaders (GRUB).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.5 Kernel Updates.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.4 Kernel Configuration.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.3 Compiling a Custom Kernel (Basic).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.2 Kernel Modules.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.1 Understanding the Linux Kernel.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2 Virtualization.md",
+    "6.2.2 Log File Locations (/var",
+    "6.2.2 Log File Locations (",
+    "2.1.1 The Root Directory (",
     "7.1.5 Using a CI",
     "DSC00487.jpg",
     "AI Learning/ADVANCED GIT AND GITHUB FOR LINUX MASTERY/012 SCRIPTING AND AUTOMATION WITH GIT",
@@ -231,9 +234,6 @@
     "powershell.exe.lnk",
     "update-github.ps1.lnk",
     "New shortcut.lnk",
-    "update-github.ps1",
-    "New Text Document.txt",
-    "AI Learning/GIT AND GITHUB MASTERY/004 ADVANCE GITHUB FEATURES",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/11_TROUBLESHOOTING AND DEBUGGING"
+    "update-github.ps1"
   ]
 }
