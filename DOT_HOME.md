@@ -18,7 +18,7 @@ banner_y: 0.7485
 	- [[GIT AND GITHUB MASTERY]]
 	- [[ADVANCED GIT AND GITHUB MASTERY]]
 	- [[ADVANCED GIT AND GITHUB FOR LINUX MASTERY]]
-	- [[DOTFILES GIT FOR LINUX]] - not finish writing
+	- [[DOTFILES GIT FOR LINUX]] - not finish writing 6.2.5
 	- [[LINUX MASTERY⁚ A BEGINNER’S GUIDE]] - not finish writing
 	- [[ADVANCE LINUX MASTERY]] - not finish writing
 	- [[DEEP MASTERY CUSTOMIZE LINUX]] - not finish writing
