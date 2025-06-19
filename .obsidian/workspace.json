@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "8f5202c97c21340b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "e2eee9b6d0f4920f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.1 Xen architecture.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1 Application Security.md",
+                "bFile": "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1 Application Security.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "11.1.1 Xen architecture"
+              "icon": "diff",
+              "title": "Diff: 9.1 Application Security"
             }
           }
         ]
@@ -191,34 +191,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "fd9658eaa489a5cd",
+  "active": "e2eee9b6d0f4920f",
   "lastOpenFiles": [
-    "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.1 acemaker.md",
-    "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1. Secure coding practice.md",
-    "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.1 Sysctl configuration.md",
-    "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.1 Docker Fundamentals.md",
+    "AI Learning/ADVANCE LINUX MASTERY/002 SYSTEM ADMINISTRATION/2.6 Network.md",
+    "AI Learning/ADVANCE LINUX MASTERY/003 ADVANCE COMMAND LINE/3.2.2 Control flow (if, for, while).md",
+    "AI Learning/ADVANCE LINUX MASTERY/006 AUTOMATIUON AND ORCHESTRATION/6.1.5 Proxy server configuration (Squid).md",
+    "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.4 GlusterFS.md",
     "DOT_HOME.md",
-    "AI Learning/ADVANCE LINUX MASTERY/006 AUTOMATIUON AND ORCHESTRATION/6.1.1 DHCP server configuration.md",
-    "AI Learning/ADVANCE LINUX MASTERY/005 NETWORKING DEEP DIVE/5.1.1 Udev rules.md",
-    "AI Learning/ADVANCE LINUX MASTERY/004 KERNAL AND HARDWARE/4.2.7 Kernel modules signing.md",
-    "AI Learning/ADVANCE LINUX MASTERY/004 KERNAL AND HARDWARE/4.1.1 Top and htop.md",
-    "AI Learning/ADVANCE LINUX MASTERY/003 ADVANCE COMMAND LINE/3.1.1 User authentication.md",
-    "AI Learning/ADVANCE LINUX MASTERY/002 SYSTEM ADMINISTRATION/2.1.1 Kernel overview.md",
-    "AI Learning/ADVANCE LINUX MASTERY/001 LINUX FUNDAMENTALS/1.1.1 Navigation (cd, Is, pwd).md",
-    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4 GCP.md",
-    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.7 Cloud Function.md",
-    "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.6 Cloud Deployment.md",
-    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.5 Cloud Monitoring.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.7 Cloud Function.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.4 Cloud IAM.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.5 Cloud Monitoring.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.3 Virtual Private Cloud.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.2 Cloud Storage.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.1 Compute Engine.md",
-    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3 Azure.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4 GCP.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.7 Azure Functions.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.6 Azure Resource Manager.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.5 Azure Monitor.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.3 Virtual Network.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.2 Blob Storage.md",
     "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.4 Azure Active Directory.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.1 Virtual Machine.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3 Azure.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.6 Cloud Formation.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.7 Lambda.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.5 CloudWatch.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.4 IAM.md",
+    "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.3 VPC.md",
     "7.2.3 Disk I",
     "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING",
     "6.2.2 Log File Locations (/var",
