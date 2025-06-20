@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiALargeSmall",
+      "LiAlignHorizontalDistributeCenter",
+      "LiAlarmClockCheck",
       "LiActivitySquare",
       "RiFilePaperFill",
       "📄",
@@ -5167,102 +5170,386 @@
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
   },
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1 Containerization.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.2 Docker networking.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.1 Docker Fundamentals.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.4 Docker Swarm.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.3 Docker Compose.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.5 Kubernetes.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.6 Container orchestration.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.7 Container security.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2 System Profiling.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.1 CPU profiling.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.2 Memory profiling.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.3 Disk I⁄O profiling.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.6 Performance analysis tools.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.5 Identifying bottlenecks.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.4 Network profiling.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.7 Interpreting profiling data.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.1 Sysctl configuration.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1 Kernel tuning.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.2 Kernel parameters.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.4 Disk I⁄O tuning.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.3 Memory management tuning.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.5 Network tuning.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.6 CPU scheduling.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.7 Reducing Latency.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.1 Disabling unnecessary services.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2 System hardening.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.2 Kernel hardening.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.3 File System Hardening.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.5 Security auditing.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.4 Network Hardening.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.6 Instrusion detection.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.7 Security incident response.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1 Application Security.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.1 Secure coding practice.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.2 Vulnerability scanning.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.4 Web application security.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.3 Penetration testing.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.6 Security best practice.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.5 Database security.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.7 Security framework.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2 Load Balancing.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.1 HAProxy.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.4 LVS (Linux Virtual Server).md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.2 Nginx load balancing.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.3 Keepalived.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.6 Session persistence.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.5 Load balancing algorithmssz.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.7 Health checks.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1 Clustering.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.2 Corosync.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.1 acemaker.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.3 DRBD (Distributed Replicated Block Device).md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.5 Ceph.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.4 GlusterFS.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.6 Cluster resource management.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.7 Quorum and fencing.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2 KVM.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.1 KVM architecture.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.2 Virtual machine creation and management.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.3 Libvirt.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.4 Virt-manager.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.6 Storage virtualization.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.5 Virtual networking.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.7 Performance tuning.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1 Xen.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.1 Xen architecture.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.2 Virtual machine and management.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.3 XenCenter.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.4 Virtual Networking.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.6 Performance tuning.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.5 Storage virtualization.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.7 Dom0 and DomU.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2 AWS.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.1 EC2.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.2 S3.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.3 VPC.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.4 IAM.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.5 CloudWatch.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.7 Lambda.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.6 Cloud Formation.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3 Azure.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.1 Virtual Machine.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.4 Azure Active Directory.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.2 Blob Storage.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.3 Virtual Network.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.5 Azure Monitor.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.6 Azure Resource Manager.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.7 Azure Functions.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4 GCP.md": "RiBookReadLine",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.1 Compute Engine.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.2 Cloud Storage.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.3 Virtual Private Cloud.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.5 Cloud Monitoring.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.4 Cloud IAM.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.7 Cloud Function.md": "RiFilePaperFill",
-  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.6 Cloud Deployment.md": "RiFilePaperFill",
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1 Containerization.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.2 Docker networking.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.1 Docker Fundamentals.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.4 Docker Swarm.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.3 Docker Compose.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.5 Kubernetes.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.6 Container orchestration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.1.7 Container security.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2 System Profiling.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.1 CPU profiling.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.2 Memory profiling.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.3 Disk I⁄O profiling.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.6 Performance analysis tools.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.5 Identifying bottlenecks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.4 Network profiling.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/007 PERFORMANCE TUNING/7.2.7 Interpreting profiling data.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.1 Sysctl configuration.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1 Kernel tuning.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.2 Kernel parameters.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.4 Disk I⁄O tuning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.3 Memory management tuning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.5 Network tuning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.6 CPU scheduling.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.1.7 Reducing Latency.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.1 Disabling unnecessary services.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.2 Kernel hardening.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.3 File System Hardening.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.5 Security auditing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.4 Network Hardening.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.6 Instrusion detection.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2.7 Security incident response.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1 Application Security.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.1 Secure coding practice.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.2 Vulnerability scanning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.4 Web application security.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.3 Penetration testing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.6 Security best practice.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.5 Database security.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.1.7 Security framework.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2 Load Balancing.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.1 HAProxy.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.4 LVS (Linux Virtual Server).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.2 Nginx load balancing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.3 Keepalived.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.6 Session persistence.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.5 Load balancing algorithmssz.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING/9.2.7 Health checks.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1 Clustering.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.2 Corosync.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.1 acemaker.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.3 DRBD (Distributed Replicated Block Device).md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.5 Ceph.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.4 GlusterFS.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.6 Cluster resource management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.1.7 Quorum and fencing.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2 KVM.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.1 KVM architecture.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.2 Virtual machine creation and management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.3 Libvirt.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.4 Virt-manager.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.6 Storage virtualization.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.5 Virtual networking.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/010 VIRTUALIZATION/10.2.7 Performance tuning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1 Xen.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.1 Xen architecture.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.2 Virtual machine and management.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.3 XenCenter.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.4 Virtual Networking.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.6 Performance tuning.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.5 Storage virtualization.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.1.7 Dom0 and DomU.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2 AWS.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.1 EC2.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.2 S3.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.3 VPC.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.4 IAM.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.5 CloudWatch.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.7 Lambda.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.2.6 Cloud Formation.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3 Azure.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.1 Virtual Machine.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.4 Azure Active Directory.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.2 Blob Storage.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.3 Virtual Network.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.5 Azure Monitor.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.6 Azure Resource Manager.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.3.7 Azure Functions.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4 GCP.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.1 Compute Engine.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.2 Cloud Storage.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.3 Virtual Private Cloud.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.5 Cloud Monitoring.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.4 Cloud IAM.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.7 Cloud Function.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/011 CLOUD COMPUTING/11.4.6 Cloud Deployment.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
   "AI Learning/ADVANCE LINUX MASTERY/002 SYSTEM ADMINISTRATION/2.3.5 Package signing and verification.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
@@ -5282,5 +5569,272 @@
   "AI Learning/ADVANCE LINUX MASTERY/006 AUTOMATIUON AND ORCHESTRATION/6.2.3 Chef.md": {
     "iconName": "RiFilePaperFill",
     "iconColor": "#ffff00"
-  }
+  },
+  "AI Learning/ADVANCE LINUX MASTERY/008 SECURITY HARDENING/8.2 System hardening.md": {
+    "iconName": "RiBookReadLine",
+    "iconColor": "#ffff00"
+  },
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.1 Linux History and Philosophy.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.1.1 Origins of Linux.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.1.2 GNU Project.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.1.3 Free and Open Source Software (FOSS).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.1.4 Linux Distributions.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.1.5 The Linux Kernel.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.1.6 Linux Community.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.1.7 Future of Linux.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.2 Linux Architecture.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.2.1 Kernel Space vs User Space.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.2.2 System Calls.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.2.3 Process and Threads.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.2.4 Memory Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.2.5 Virtual File System (VFS).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.2.6 Device Drivers.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/001 LINUX FUNDAMENTALS/1.2.7 Boot Process.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.1 Command Line Interface (CLI).md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.1.1 Shell Basic (Bash, Zsh, Fish).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.1.2 Navigation and File Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.1.3 Text Manipulation (grep, sed, awk).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.1.4 Process Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.1.6 System Information Commands.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.1.5 Networking Commands.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.1.7 Scripting Basics.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.2 Boot Process Customization.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.2.1 GRUB Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.2.2 Systemd Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.2.3 Kernel Parameters.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.2.5 Boot Loaders.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.2.4 Initamfs.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.2.7 Troubleshooting Boot Issues.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.2.6 Custom Boot Scripts.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.3 Kernel Customization.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.3.1 Kernel Compilation.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.3.2 Kernel Modules.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.3.3 Device Driver Development.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.3.5 Kernel Patching.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.3.4 Kernel Debugging.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.3.6 Custom Kernel Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/002 SYSTEM CONFIGURATION/2.3.7 Kernel Security.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.1 Systemd Deep Dive.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.1.1 Systemd Units.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.1.3 Systemd Timers.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.1.2 Systemd Journal.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.1.5 Systemd Resolve.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.1.4 Systemd Network Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.1.6 Systemd Security Features.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.1.7 Custom Systemd Services.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.2 Package Manager Internals.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.2.1 APT (Debian⁄Ubuntu).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.2.2 YUM⁄DNF (Red Hat⁄Fedora).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.2.5 Package Repositories.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.2.3 Pacman (Arch Linux).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.2.4 Package Dependencies.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.2.6 Package Signing.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.2.7 Building Custom Package.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.3 Custom Package Repositories.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.3.1 Creating Local Repositories.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.3.5 Package Building Tools.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.3.3 Hosting Private Repositories.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.3.2 Managing Package Versions.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.3.4 Repository Mirroring.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.3.6 Automated Package Building.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/003 PACKAGE  MANAGEMENT/3.3.7 Repository Security.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.1 Package Building and Modification.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.1.2 Creating  .rpm Package.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.1.1 Creating  .deb Package.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.1.3 Modifying Existing Package.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.1.4 Patching Package.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.1.5 Package Signing.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.1.6 Package Versioning.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.1.7 Package Testing.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.2 Display Managers.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.2.3 Display Manager Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.2.1 X11.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.2.2 Wayland.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.2.5 Remote Desktop Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.2.4 Custom Display Manager Themes.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.2.6 Display Scaling.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.2.7 Multi-Monitor Setup.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.3 Window Managers.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.3.1 Tiling Window Managers (i3, Sway).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.3.3 Compositors.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.3.2 Stacking Window Managers (XFCE, KDE).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.3.4 Window Manager Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.3.7 Window Rules.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.3.5 Custom Keybindings.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/004 DESKTOP ENVIROMENT CUSTOMIZATION/4.3.6 Autostart Applications.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.1.1 Panel Customization.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.1 Desktop Environment Components.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.1.2 Themeing (GTK, Qt).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.1.4 Cursor Themes.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.1.3 Icon Sets.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.1.5 Font Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.1.6 Custom Desktop Actions.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.1.7 Desktop Environment Configuration Files.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.2 User and Group Management.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.2.1 User Account Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.2.2 Group Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.2.4 User Privileges.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.2.3 Password Policies.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.2.5 Sudo Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.2.6 PAM (Pluggable Authentication Modules).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.2.7 User Auditing.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.3 Firewall Configuration.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.3.1 Iptables.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.3.3 Firewalld.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.3.2 Nftables.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.3.7 Port Forwarding.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.3.5 Firewall Rules.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.3.4 UFW (Uncomplicated Firewall).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/005 SECURITY HARDENING/5.3.6 Network Address Translation (NAT).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.1 Intrusion Detection and Prevention.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.1.1 Intrusion Detection Systems (IDS).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.1.3 Log Analysis.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.1.2 Intrusion Prevention Systems (IPS).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.1.7 Security Information and Event Management (SIEM).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.1.5 Rootkit Detection.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.1.4 Security Auditing.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.1.6 Malware Scanning.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2 Networking Configuration.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2.2 IP Addressing.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2.1 Network Interface.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2.3 Routing.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2.4 DNS Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2.5 DHCP Server.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2.6 Network Manager.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2.7 Wireless Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.3 Network Service.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.3.1 SSH Server.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.3.2 Web Server (Apache, Nginx).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.3.4 Mail Server.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.3.3 FTP Server.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.3.5 Database Server.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.3.6 VPN Server.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.3.7 Proxy Server.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.1 Network Monitoring.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.1.3 Network Security Monitoring.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.1.2 Network Performance Monitoring.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.1.1 Network Traffic Analysis.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.1.6 Nmap.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.1.5 Topdump.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.1.4 Wireshark.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.1.7 Network Management Tools.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.2 Performance Monitoring Tools.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.2.1 Top.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.2.3 Vmstat.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.2.2 Htop.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.2.6 Dstat.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.2.4 Iostat.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.2.5 Netstat.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.2.7 Performance Analysis.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.3 Resource Management.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.3.2 Memory Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.3.1 CPU Affinity.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.3.3 Disk I⁄O Optimization.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.3.4 Process Prioritization.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.3.5 Cgroups.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.3.6 Resource Limits.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/007 SYSTEM MONITORING AND TUNING/7.3.7 System Tuning.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1 Log Management.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1.1 System Log.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1.4 Centralized Logging.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1.2 Log Rotation.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1.3 Log Analysis.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1.5 Log Monitoring.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1.7 Log Security.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1.6 Log Alerting.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.2 Shell Scripting.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.2.1 Bash Scripting.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.2.4 Script Debugging.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.2.3 Scripting Best practice.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.2.2 Zsh Scripting.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.2.6 Cron Jobs.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.2.5 Script Automation.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.2.7 Systemd Timers.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.3 Configuration Management.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.3.1 Ansible.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.3.2 Puppet.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.3.4 SaitStack.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.3.3 Chef.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.3.7 System Provisioning.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.3.6 Configuration Automation.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.3.5 Infrastructure as Code (IaC).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.1 System Administration Scripting.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.1.2 System Monitoring Scripts.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.1.1 User Management Scripts.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.1.4 Backup and Restore Scripts.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.1.3 Security Automation Scripts.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.2 Virtualization Technologies.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.1.5 Deployment Scripts.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.1.6 Custom Automation Tools.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.2.3 Virtual Box.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.2.2 Xen.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.2.1 KVM.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.2.6 Virtual Machine Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.2.4 VMware.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.2.5 Hypervisors.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.2.7 Virtualization Security.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.3 Containerization Technologies.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.3.1 Docker.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.3.6 Container Storage.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.3.3 LXC ⁄ LXD.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.3.2 Podman.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.3.4 Container Orchestration (Kubernetes, Docker Swarm).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.3.5 Container Networking.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/009 VIRTULIZATION AND CONTAINERIZATION/9.3.7 Container Security.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.1.1 Virtual Machine Provisioning.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.1 Virtualization and Containerization Management.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.1.2 Container Image Building.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.1.7 Container Security.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.1.4 Container Deployment.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.1.3 Container Image Building.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.1.6 Container Scaling.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.1.5 Container Monitoring.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2 File System Internals.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2.1 Ext4.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2.2 XFS.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2.4 ZFS.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2.3 Btrfs.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2.6 File System Metadata.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2.5 File System Structure.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2.7 File System Journaling.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.3 Storage Management.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.3.1 LVM (Logical Volume Management.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.3.3 Disk Partitioning.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.3.2 RAID ( Redundant Array of Independent Disks).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.3.4 File System Mounting.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.3.6 Storage Monitoring.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.3.5 Storage Optimization.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.3.7 Storage Security.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.1 Network File Systems.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.1.7 Network Storage Security.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.1.4 Ceph.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.1.2 Samba (SMB⁄CIFS).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.1.1 NFS (Network File System).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.1.3 GlusterFS.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.1.5 Distributed File System.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.1.6 Network Storage Configuration.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.2 Steace.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2 System Debugging tools.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.1 GBD (GNU Debugger).md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.3 Ltrace.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.4 Perf.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.6 Debugging Techniques.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.5 SystemTop.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3 Troubleshooting Techniques.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.7 Core Dump Analysis.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.1 Identifying Issues.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.2 Isolation Problems.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.5 Using System Monitoring Tools.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.7 Testing Solution.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.3 Root Cause Analysis.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.4 Debugging Logs.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.6 Reproducing Issues.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4 Common Linux Issues.md": "RiBookReadLine",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.3 Performance Problems.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.1 Boot Problems.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.2 Network Connectivity Issues.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.5 File System Corruption.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.4 Security Breaches.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.7 Software Bugs.md": "RiFilePaperFill",
+  "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.6 Hardware Failures.md": "RiFilePaperFill"
 }
