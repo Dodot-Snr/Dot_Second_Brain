@@ -4,19 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "daac20dc6b8dc2e5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6506eae1022307ae",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/004 SECURITY/4.1 SSH (Secure Shell).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 SSH (Secure Shell)"
+            }
+          },
+          {
+            "id": "251d64bfec2ce795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING/5.2.5 Conditional Statements (if, else, elif).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.2.5 Conditional Statements (if, else, elif)"
+            }
+          },
+          {
+            "id": "bd2f83976bce817c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING/5.3 Advance bash Scripting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3 Advance bash Scripting"
+            }
+          },
+          {
+            "id": "c86757cf1ac4abde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING/5.3.1 Command Substitution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3.1 Command Substitution"
+            }
+          },
+          {
+            "id": "cf33279e10e0b8ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/005 SCRIPTING/5.3.5 Text Processing Tools (grep, sed, awk).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3.5 Text Processing Tools (grep, sed, awk)"
+            }
+          },
+          {
+            "id": "5f441bd23bd98664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.7 Kernel Debugging (Basics).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.3.7 Kernel Debugging (Basics)"
+            }
+          },
+          {
+            "id": "408a9e827da19267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/DEEP MASTERY CUSTOMIZE LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DEEP MASTERY CUSTOMIZE LINUX"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,34 +275,35 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6506eae1022307ae",
+  "active": "408a9e827da19267",
   "lastOpenFiles": [
-    "DOT_HOME.md",
-    "Untitled Kanban.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/006 NETWORKING/6.2.1 Network Interface.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/008 AUTOMATION AND SCRIPTING/8.1.1 System Log.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/010 FILE SYSTEM AND STORAGE/10.2.3 Btrfs.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.6 Hardware Failures.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.7 Software Bugs.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.4 Security Breaches.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.5 File System Corruption.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.2 Network Connectivity Issues.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.1 Boot Problems.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4.3 Performance Problems.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.4 Common Linux Issues.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.6 Reproducing Issues.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.4 Debugging Logs.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.3 Root Cause Analysis.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.7 Testing Solution.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.5 Using System Monitoring Tools.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.2 Isolation Problems.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3.1 Identifying Issues.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.7 Core Dump Analysis.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.3 Troubleshooting Techniques.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.5 SystemTop.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.6 Debugging Techniques.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.4 Perf.md",
-    "AI Learning/DEEP MASTERY CUSTOMIZE LINUX/011 TROUBLESHOOTING AND DEBUGGING/11.2.3 Ltrace.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/LINUX MASTERY⁚ A BEGINNER’S GUIDE.md",
+    "AI Learning/ADVANCE LINUX MASTERY/ADVANCE LINUX MASTERY.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.3 Troubleshooting Network Issues.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.4 Troubleshooting Performance Issues.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.5 Using Debugging Tools (Strace, Itrace).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.6 Analyzing Crash Dumps.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.7 Seeking Help from the Linux Community.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.1 Identifying Common Linux Problems.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.6 Boot Loaders (GRUB).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.2 Troubleshooting Boot Issues.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.7 Kernel Debugging (Basics).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4 Troubleshooting.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.2 Kernel Modules.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.3 Compiling a Custom Kernel (Basic).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.4 Kernel Configuration.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.5 Kernel Updates.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3.1 Understanding the Linux Kernel.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.3 Kernel Management.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2.7 Cloud Computing Basics.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2.6 Virtualization Best Practices.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2.4 Networking in Virtualized Environments.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2.5 Containerization (Docker, Podman).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2.1 Introduction to Virtualization.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2.2 Virtual Machine Managers (VirtualBox, VMware, KVM).md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2.3 Creating and Managing Virtual Machines.md",
+    "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.2 Virtualization.md",
+    "Untitled",
     "3.2.1 APT (Debian",
     "7.2.3 Disk I",
     "AI Learning/ADVANCE LINUX MASTERY/009 HIGH AVAILABLITY AND CLUSTURING",
@@ -225,7 +316,6 @@
     "WhatsApp Image 2025-06-15 at 02.16.35_d1980b66.jpg",
     "WhatsApp Image 2025-06-14 at 00.38.30_c94f84d2 1.jpg",
     "WhatsApp Image 2025-06-14 at 00.38.30_c94f84d2.jpg",
-    "Update GitHub Notes.lnk",
-    "powershell.exe.lnk"
+    "Update GitHub Notes.lnk"
   ]
 }

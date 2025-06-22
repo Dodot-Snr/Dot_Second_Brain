@@ -1,0 +1,322 @@
+1. FUNDAMENTALS
+	- 1.1 Basic Circuit Theory
+		- 1.1.1 Ohm’s Law
+		- 1.1.2 Kirchoff’s Law
+		- 1.1.3 Thevenin’s Theorem
+		- 1.1.4 Norton’s Theorem
+		- 1.1.5 Superposition Theorem
+		- 1.1.6 Mesh Analysis
+		- 1.1.7 Nodal Analysis
+	- 1.2 Electronic Components
+		- 1.2.1 Resistor
+		- 1.2.2 Capacitors
+		- 1.2.3 Inductors
+		- 1.2.4 Diodes
+		- 1.2.5 Transitions (BJTs, MOSFET)
+		- 1.2.6 Operational Amplifiers
+		- 1.2.7 Integrated Circuits
+2. ANALOG ELETRONICS
+	- 2.1 AC Circuit Analysis
+		- 2.1.1 Phasors
+		- 2.1.2 Impedance
+		- 2.1.3 Reactance
+		- 2.1.4 AC Power
+		- 2.1.5 Frequency Response
+		- 2.1.6 Filters
+		- 2.1.7 Transformers
+	- 2.2 Amplifier Design
+		- 2.2.1 BJT Amplifiers
+		- 2.2.2 MOSFET Amplifiers
+		- 2.2.3 Differential Amplifiers
+		- 2.2.4 Feedback Amplifiers
+		- 2.2.5 Operational Amplifier Circuits
+		- 2.2.6 Amplifier Frequency Response
+		- 2.2.7 Amplifier Stability
+	- 2.3 Analog Filters
+		- 2.3.1 Active Filter Design
+		- 2.3.2 Low-Pass Filters
+		- 2.3.3 High-Pass Filters
+		- 2.3.4 Band-Pass Filters
+		- 2.3.5 Band-Stop Filters
+		- 2.3.6 Filter Order and Response
+		- 2.3.7 Switched Capacitor Filters
+3. DIGITAL ELECTRONICS
+	- 3.1 Power Electronics
+		- 3.1.1 Rectifiers
+		- 3.1.2 Voltage Regulators
+		- 3.1.3 DC-DC Converters
+		- 3.1.4 Inverters
+		- 3.1.5 Power Factor Correction
+		- 3.1.6 Motor Control Circuits
+		- 3.1.7 Power Supply Design
+	- 3.2 Digital Logic
+		- 3.2.1 Boolean Algebra
+		- 3.2.2 Logic Gates
+		- 3.2.3 Combinational Logic Circuits
+		- 3.2.4 Sequential Logic Circuits
+		- 3.2.5 Flip-Flops
+		- 3.2.6 Counters
+		- 3.2.7 Registers
+	- 3.3 Microcontrollers
+		- 3.3.1 Microcontroller Architecture
+		- 3.3.2 Assembly Language Programming
+		- 3.3.3 C Programming for Microcontrollers
+		- 3.3.4 Interrupts
+		- 3.3.5 Timers
+		- 3.3.6 Peripherals (ADC, DAC, UART, SPI, I2C)
+4. EMBEDDED SYSTEMS
+	- 4.1 Digital Signal Processing
+		- 4.1.1 Sampling Theorem
+		- 4.1.2 Discrete Fourier Transform (DFT)
+		- 4.1.3 Fast Fourier Transform (FFT)
+		- 4.1.4 Digital Filters
+		- 4.1.5 Z-Transform
+		- 4.1.6 Signal Analysis
+		- 4.1.7 Image Processing Fundamentals
+	- 4.2 Embedded System Architecture
+		- 4.2.1 Real-Time Operating Systems (RTOS)
+		- 4.2.2 Embedded Linux
+		- 4.2.3 Device Drivers
+		- 4.2.4 Bootloaders
+		- 4.2.5 Memory Management
+		- 4.2.6 Power Management
+		- 4.2.7 Communication Protocols
+	- 4.3 Embedded Programming
+		- 4.3.1 C/C++ for Embedded Systems
+		- 4.3.2 Python for Embedded Systems
+		- 4.3.3 Embedded System Debugging
+		- 4.3.4 Embedded System Testing
+		- 4.3.5 Code Optimizing
+		- 4.3.6 Low-Power Programming
+		- 4.3.7 Secure Coding Practices
+5. Communication Systems
+	- 5.1 Hardware Interfacing
+		- 5.1.1 Sensors
+		- 5.1.2 Actuators
+		- 5.1.3 Communication Interfaces (UART, SPI, I2C, CAN)
+		- 5.1.4 Wireless Communication (Bluetooth, Wi-Fi, LoRa)
+		- 5.1.5 Display Technologies (LCD, OLED)
+		- 5.1.6 Motor Control
+		- 5.1.7 Power Management ICs
+	- 5.2 Modulation Techniques
+		- 5.2.1 Amplitude Modulation (AM)
+		- 5.2.2 Frequency Modulation (FM)
+		- 5.2.3 Phase Modulation (PM)
+		- 5.2.4 Digital Modulation (ASK, FSK, PSK, QAM)
+		- 5.2.5 Spread Spectrum Modulation
+		- 5.2.6 Orthogonal Frequency Division Multiplexing (OFDM)
+		- 5.2.7 Channel Coding
+	- 5.3 Wireless Communication
+		- 5.3.1 Wireless Channel Characteristics
+		- 5.3.2 Antenna Design
+		- 5.3.3 Multiple Access Techniques (TDMA, FDMA, CDMA)
+		- 5.3.4 Cellular Communication (GSM, LTE, 5G)
+		- 5.3.5 Wireless Networking (Wi-Fi, Bluetooth)
+		- 5.3.6 Satellite Communication
+		- 5.3.7 Radio Frequency Identification (RFID)
+6. CONTROL SYSTEMS
+	- 6.1 Networking
+		- 6.1.1 Network Protocols (TCP/IP, UDP)
+		- 6.1.2 Network Topologies
+		- 6.1.3 Network Security
+		- 6.1.4 Wireless Sensor Networks
+		- 6.1.5 Internet of Things (IoT)
+		- 6.1.6 Cloud Computing
+		- 6.1.7 Edge Computing
+	- 6.2 Control System Theory
+		- 6.2.1 Open-Loop and Closed-Loop Systems
+		- 6.2.2 Transfer Functions
+		- 6.2.3 Block Diagrams
+		- 6.2.4 Stability Analysis (Routh-Hurwitz, Nyquist)
+		- 6.2.5 Root Locus
+		- 6.2.6 Bode Plots
+		- 6.2.7 State-Space Representation
+	- 6.3 Control-System Design
+		- 6.3.1 PID Control
+		- 6.3.2 Lead-Log Compensation
+		- 6.3.3 State-Space Control
+		- 6.3.4 Optimal Control
+		- 6.3.5 Adaptive Control
+		- 6.3.6 Robust Control
+		- 6.3.7 Digital Control
+7. POWER SYSTEMS
+	- 7.1 Applications
+		- 7.1.1 Robotics
+		- 7.1.2 Automation
+		- 7.1.3 Process Control
+		- 7.1.4 Aerospace
+		- 7.1.5 Automotive
+		- 7.1.6 Power Systems
+		- 7.1.7 Biomedical Engineering
+	- 7.2 Power Generation
+		- 7.2.1 Conventional Power Generation (Cool, Gas, Nuclear)
+		- 7.2.2 Renewable Energy Sources (Solar, Wind, Hydro)
+		- 7.2.3 Power Plant Operation
+		- 7.2.4 Power System Economics
+		- 7.2.5 Smart Grids
+		- 7.2.6 Microgrids
+		- 7.2.7 Energy Storage
+	- 7.3 Power Transmission and Distribution
+		- 7.3.1 Transmission Lines
+		- 7.3.2 Transformers
+		- 7.3.3 Substations
+		- 7.3.4 Power System Protection
+		- 7.3.5 Power System Stability
+		- 7.3.6 Power Quality
+		- 7.3.7 Distribution Automation
+8. INSTRUMENTATION AND MEASUREMENT
+	- 8.1 Power System Analysis
+		- 8.1.1 Load Flow Analysis
+		- 8.1.2 Short Circuit Analysis
+		- 8.1.3 Transient Stability Analysis
+		- 8.1.4 Harmonic Analysis
+		- 8.1.5 Power System Optimization
+		- 8.1.6 Power System Planning
+		- 8.1.7 Power System Reliability
+	- 8.2 Sensor and Transducers
+		- 8.2.1 Temperature Sensors
+		- 8.2.2 Pressure Sensors
+		- 8.2.3 Flow Sensors
+		- 8.2.4 Level Sensors
+		- 8.2.5 Stain Gauges
+		- 8.2.6 Accelerometers
+		- 8.2.7 Optical Sensors
+	- 8.3 Measurement Techniques
+		- 8.3.1 Bridge Circuits
+		- 8.3.2 Signal Conditioning
+		- 8.3.3 Data Acquisition System (DAQ)
+		- 8.3.4 Calibration
+		- 8.3.5 Error Analysis
+		- 8.3.6 Uncertainly Analysis
+		- 8.3.7 Statistical Analysis
+9. SEMICONDUCTOR DEVICES
+	- 9.1 Virtual Instrumentation
+		- 9.1.1 LabVIEW
+		- 9.1.2 MATLAB
+		- 9.1.3 Python
+		- 9.1.4 Data Visualization
+		- 9.1.5 Instrument Control
+		- 9.1.6 Automated Testing
+		- 9.1.7 Remote Monitoring
+	- 9.2 Semiconductor Physics
+		- 9.2.1 Energy Bonds
+		- 9.2.2 Carrier Transport
+		- 9.2.3 Doping
+		- 9.2.4 P-N Junctions
+		- 9.2.5 Bipolar Junction Transistors (BJTs)
+		- 9.2.6 Metal-Oxide-Semiconductor Field-Effect Transistors (MOSFETs)
+	- 9.3 Device Fabrication
+		- 9.3.1 Water Fabrication
+		- 9.3.2 Photolithography
+		- 9.3.3 Etching
+		- 9.3.4 Deposition
+		- 9.3.5 Doping
+		- 9.3.6 Metallization
+		- 9.3.7 Packaging
+10. PCD DESIGN AND FABRICATION
+	- 10.1 Advanced Devices
+		- 10.1.1 FinFETs
+		- 10.1.2 Tunnel FETs
+		- 10.1.3 Memory Devices (SRAM, DRAM, Flash)
+		- 10.1.4 Optoelectronic Devices (LEDs, Lazers, Photodiodes)
+		- 10.1.5 Microelectromechanical System (MEMS)
+		- 10.1.6 Nanoelectronics
+		- 10.1.7 Quantum Computing Hardware
+	- 10.2 PCB Design Software
+		- 10.2.1 Schematic Capture
+		- 10.2.2 PCB Layout
+		- 10.2.3 Gerber File Generation
+		- 10.2.4 Design Rule Checking (DRC)
+		- 10.2.5 Bill of Materials (BOM)
+		- 10.2.6 Simulation
+		- 10.2.7 Version Control
+	- 10.3 PCB Fabrication
+		- 10.3.1 PCB Materials
+		- 10.3.2 PCB Manufacturing Processes
+		- 10.3.3 Drilling
+		- 10.3.4 Ploting
+		- 10.3.5 Etching
+		- 10.3.6 Soldermask
+		- 10.3.7 Silkscreen
+11. ELECTROMAGNETIC COMPATIBILITY (EMC)
+	- 11.1 Advanced PCB Techniques
+		- 11.1.1 Multilayer PCBs
+		- 11.1.2 High-Speed PCB Design
+		- 11.1.3 Impedance Control
+		- 11.1.4 Thermal Management
+		- 11.1.5 Signal Integrity
+		- 11.1.6 Power Integrity
+		- 11.1.7 Flexible PCBs
+	- 11.2 EMC Fundamentals
+		- 11.2.1 Electromagnetic Interference (EMI)
+		- 11.2.2 Electromagnetic Susceptibility  (EMS)
+		- 11.2.3 Coupling Mechanisms
+		- 11.2.4 Shielding
+		- 11.2.5 Grounding
+		- 11.2.6 Filtering
+		- 11.2.7 PCB Layout for EMC
+	- 11.3 EMC Testing
+		- 11.3.1 Conducted Emissions
+		- 11.3.2 Radiated Emissions
+		- 11.3.3 Conducted Susceptibility
+		- 11.3.4 Radiated Susceptibility
+		- 11.3.5 Electrostatic Discharge (ESD)
+		- 11.3.6 Surge Immunity
+		- 11.3.7 EMC Standards
+12. RELIABILITY ENGINEERING
+	- 12.1 EMC Design Techniques
+		- 12.1.1 Shielding Effectiveness
+		- 12.1.2 Grounding Techniques
+		- 12.1.3 Filtering Techniques
+		- 12.1.4 PCB Layout Guidelines
+		- 12.1.5 Cable Shielding
+		- 12.1.6 Component Selection
+		- 12.1.7 EMC Simulation
+	- 12.2 Reliability Concepts
+		- 12.2.1 Failure Role
+		- 12.2.2 Mean Time To Failure (MTTF)
+		- 12.2.3 Mean Time Between Failures (MTBF)
+		- 12.2.4 Reliability Prediction
+		- 12.2.5 Reliability Testing
+		- 12.2.6 Accelerated Life Testing
+		- 12.2.7 Failure Analysis
+	- 12.3 Reliability Design
+		- 12.3.1 Redundancy
+		- 12.3.2 Derating
+		- 12.3.3 Component Selection
+		- 12.3.4 Thermal Management
+		- 12.3.5 Environmental Protection
+		- 12.3.6 Design of Manufacturability (DFM)
+		- 12.3.7 Design for Testability (DFT)
+13. ADVENCED TOPICS
+	- 13.1 Reliability Management
+		- 13.1.1 Reliability Planning
+		- 13.1.2 Reliability Program
+		- 13.1.3 Failure Reporting and Corrective Action System (FRACAS)
+		- 13.1.4 Root Cause Analysis
+		- 13.1.5 Continuous Improvement
+		- 13.1.6 Statical Process Control (SPC)
+		- 13.1.7 Quality Assurance
+	- 13.2 Quantum Electronics
+		- 13.2.1 Quantum Mechanics
+		- 13.2.2 Quantum Communications
+		- 13.2.3 Quantum Sensors
+		- 13.2.4 Quantum Materials
+		- 13.2.5 Superconducting Electronics
+		- 13.2.6 Spintronics
+	- 13.3 Neuromorphic Computing
+		- 13.3.1 Artificial Neural Networks
+		- 13.3.2 Spiking Neural Networks
+		- 13.3.3 Memristors
+		- 13.3.4 Neuromorphic Architectures
+		- 13.3.5 Brain-Inspired Computing
+		- 13.3.6 Machine Learning Hardware
+		- 13.3.7 Edge AI
+	- 13.4 Flexible and Wearable Electronics
+		- 13.4.1 Flexible Substrates
+		- 13.4.2 Flexible Components
+		- 13.4.3 Stretchable Electronics
+		- 13.4.4 Wearable Sensors
+		- 13.4.5 Energy Harvesting
+		- 13.4.6 Biocompatible Electronics
+		- 13.4.7 Electronic Textiles

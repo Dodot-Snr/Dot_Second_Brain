@@ -1,0 +1,340 @@
+1. BASIC ELECTRICAL CONCEPTS
+	- 1.1 Circuit Theory
+		- 1.1.1 Ohm’s Law
+		- 1.1.2 Kirchhoff’s Laws (KCL, KVl)
+		- 1.1.3 Serial and Parallel Circuits
+		- 1.1.4 Voltage Dividers
+		- 1.1.5 Current Dividers
+		- 1.1.6 Thevenin’s Theorem
+		- 1.1.7 Norton’s Theorem
+	- 1.2 Electrical Components
+		- 1.2.1 Resistors (Types, Color Codes, Tolerance)
+		- 1.2.2 Capacitors (Types, Dielectrics, Charging/Discharging)
+		- 1.2.3 Inductors (Types, Core Materials, Energy Storage)
+		- 1.2.4 Diode (Types, Characteristics, Applications)
+		- 1.2.5 Transistors (BJTs, MOSFETs, JFETs)
+		- 1.2.6 Integrated Circuits (ICs)
+		- 1.2.7 Relays
+		- 1.2.8 Transformers
+2. SEMICONDUCTOR DEVICES
+	- 2.1 AC Circuit Analysis
+		- 2.1.1 Sinusodial Waveforms
+		- 2.1.2 Phasors
+		- 2.1.3 Impedance
+		- 2.1.4 AC Power (Real, Reactive, Apparent)
+		- 2.1.5 Power Factor Correction
+		- 2.1.6 Resonance
+		- 2.1.7 Filters (Passive and Active)
+		- 2.1.8 Three-Phase Circuits
+	- 2.2 Diodes
+		- 2.2.1 PN Junction Theory
+		- 2.2.2 Diode Characteristics (Forward/Reverse Bias)
+		- 2.2.3 Rectifier Circuits (Half-wave, Full-wave, Bridge)
+		- 2.2.4 Zener Diode (Voltage Regulation )
+		- 2.2.5 Schottky Diode
+		- 2.2.6 Varactor Diodes
+		- 2.2.7 LEDs and Photodiodes
+		- 2.2.8 Diode Application
+	- 2.3 Bipolar Junction Transistor (BJTs)
+		- 2.3.1 BJT Structure and Operation
+		- 2.3.2 BJT Biasing (Fixed Bias, Emitter Bias, Voltage Divider Bias)
+		- 2.3.3 BJT Amplifiers (Common Emitter, Common Collector, Common Base)
+		- 2.3.4 BJT Characteristics (Current Gain, Saturation, Cutoff)
+		- 2.3.5 BJT Switching Circuits
+		- 2.3.6 BJT Small-Signal Analysis
+		- 2.3.7 BJT High-Frequency Model
+		- 2.3.8 BJT Application
+3. ANALOG CIRCUIT DESIGN
+	- 3.1 Field-Effect Transistors (FETs)
+		- 3.1.1 JFET Structure and Operation
+		- 3.1.2 MOSFET Structure and Operation (Enhancement/Depletion Mode)
+		- 3.1.3 MOSFET Biasing
+		- 3.1.4 MOSFET Amplifiers (Common Source, Common Drain, Common Gate)
+		- 3.1.5 MOSFET Characteristics (Transconductance, Output Resistance)
+		- 3.1.6 MOSFET Switching
+		- 3.1.7 CMOS Logic
+		- 3.1.8 FET Small-Signal Analysis
+		- 3.1.9 FET Application
+	- 3.2 Operational Amplifiers (OP-Amps)
+		- 3.2.1 OP-Amp Ideal Characteristics
+		- 3.2.2 OP-Amp Configurations (Inverting, Non-Inverting, Voltage Follower)
+		- 3.2.3 OP-Amp Applications (Summing Amplifier, Difference Amplifier, Integrator, Differentiator)
+		- 3.2.4 OP-Amp Limitations (Slew Rate, Input Bias Current, Offset Voltage)
+		- 3.2.5 OP-Amp Feedback
+		- 3.2.6 OP-Amp Stability
+		- 3.2.7 OP-Amp Compensation Techniques
+		- 3.2.8 OP-Amp Noise Analysis
+	- 3.3 Analog Filters
+		- 3.3.1 Filter Types (Low-Pass, High-Pass, Band-Pass, Band-Stop)
+		- 3.3.2 Filter Design (Butterworth, Chebyshev, Bessel)
+		- 3.3.3 Active Filter Design (Using OP-Amps)
+		- 3.3.4 Switched-Capacitor Filters
+		- 3.3.5 Filter Order and Roll-Off
+		- 3.3.6 Filter Implementation
+		- 3.3.7 Filter Simulation
+		- 3.3.8 Filter Testing and Measurement
+4. DIGITAL LOGIC DESIGN
+	- 4.1 Signal Conditioning
+		- 4.1.1 Instrumentation Amplifiers
+		- 4.1.2 Isolation Amplifiers
+		- 4.1.3 Charge Amplifiers
+		- 4.1.4 Current-to-Voltage Converters
+		- 4.1.5 Voltage-to-Current Converters
+		- 4.1.6 Signal Linearization
+		- 4.1.7 Bridge Amplifiers
+		- 4.1.8 Sensor Interfacing
+	- 4.2 Number Systems and Codes
+		- 4.2.1 Binary, Decimal, Octal, Hexadecimal Number System
+		- 4.2.2 Number System Conversions
+		- 4.2.3 Binary Arithmetic
+		- 4.2.4 Signed Number Representation (1’s Complement, 2’s Complement)
+		- 4.2.5 Binary Codes (BCD, Gray Code, ASCII)
+		- 4.2.6 Error Detection and Correction Codes
+		- 4.2.7 Floating-Point Representation
+		- 4.2.8 Logic Gates
+	- 4.3 Boolean Algebra and Logic Simplification
+		- 4.3.1 Boolean Algebra Laws and Theorems
+		- 4.3.2 DeMorgan’s Theorem
+		- 4.3.3 Karnaugh Maps (K-Maps)
+		- 4.3.4 Quine-McCluskey Method
+		- 4.3.5 Logic Gate Implementation
+		- 4.3.6 Combination Logic Design
+		- 4.3.7 Sequential Logic Design
+		- 4.3.8 Logic Minimization Techniques
+5. MICROCONTROLLER AND EMBEDDED SYSTEMS
+	- 5.1 Combinational Logic Circuit
+		- 5.1.1 Adders and subtractors (Half Adder. Full Adder, Ripple Carry Adder. Carry Lookahead dder)
+		- 5.1.2 Multiplexers and Demultiplexes
+		- 5.1.3 Encoders and Decoders
+		- 5.1.4 Comparators
+		- 5.1.5 Code Converters
+		- 5.1.6 Parity Generators and Checkers
+		- 5.1.7 Arithmetic Logic Units (AULs
+		- 5.1.8 Programmable Logic Devices (PLDs)
+	- 5.2 Microcontroller Architecture
+		- 5.2.1 CPU Architecture (RISC, CISC)
+		- 5.2.2 Memory Organization (RAM, ROM, Flash)
+		- 5.2.3 Input/Output Ports
+		- 5.2.4 Timers and Counters
+		- 5.2.5 Interrupts
+		- 5.2.6 Serial Communication Interface (UART, SPI, I2C)
+		- 5.2.7 Analog-to-Digital Converters (ADCs)
+		- 5.2.8 Digital-to-Analog Converters (DACs)
+	- 5.3 Microcontroller Programming
+		- 5.3.1 Assembly Language Programming
+		- 5.3.2 C Programming for Microcontroller
+		- 5.3.3 Embedded C
+		- 5.3.4 Interrupt Handling
+		- 5.3.5 Peripheral Configuration
+		- 5.3.6 Memory Management
+		- 5.3.7 Debugging Techniques
+		- 5.3.8 Real-Time Operation System (RTOS)
+6. POWER ELECTRONICS
+	- 6.1 Embedded System Design
+		- 6.1.1 System Requirements Analysis
+		- 6.1.2 Hardware Design
+		- 6.1.3 Software Design
+		- 6.1.4 Integration and Testing
+		- 6.1.5 Power Management
+		- 6.1.6 Communication Protocols
+		- 6.1.7 Security Consideration
+		- 6.1.8 Embedded Linux
+	- 6.2 Power Semiconductor Devices
+		- 6.2.1 Power Diodes
+		- 6.2.2 Power Transistors (Power MOSFETs, IGDTs)
+		- 6.2.3 Thyristors (SCRs, TRIACs)
+		- 6.2.4 Gate Turn-Off Thyristors (GTOs)
+		- 6.2.5 Silicon Carbide (SIC) Devices
+		- 6.2.6 Gallium Nitride (GaN) Devices
+		- 6.2.7 Device Characteristics and Ratings
+		- 6.2.8 Device Protection Circuits
+	- 6.3 DC-DC Converters
+		- 6.3.1 Buck Converter
+		- 6.3.2 Boost Converters
+		- 6.3.3 Buck-Boost Converters
+		- 6.3.4 Cuk Converter
+		- 6.3.5 Flyback Converters
+		- 6.3.6 Forward Converters
+		- 6.3.7 Converter Control Techniques (PWM, voltage Mode Control, Current Mode Control)
+		- 6.3.8 Converter Design Considerations
+7. DIGITAL SIGNAL PROCESSING (DSP)
+	- 7.1 Inverters and AC-DC Converters
+		- 7.1.1 Single phase Inverters
+		- 7.1.2 Three-Phase Inverters
+		- 7.1.3 Voltage Source Inverters (VSIs)
+		- 7.1.4 Current Source Inverters (CSIs)
+		- 7.1.5 AC-DC Rectifiers (Controller and Uncontrolled)
+		- 7.1.6 Power Factor Correction (PFC Circuits)
+		- 7.1.7 Inverter Control Techniques (Sinusoidal PWM, Space Vector PWM)
+		- 7.1.8 Grid-Tied Inverters
+	- 7.2 Signal and Systems
+		- 7.2.1 Continuous-Time and Discrete-Time Signals
+		- 7.2.2 Signal Properties (Even, Odd, Periodic, Aperiodic)
+		- 7.2.3 System Properties (Liner, Time-Invariant, Casual, Stable)
+		- 7.2.4 Convolution
+		- 7.2.5 Correlation
+		- 7.2.6 Fourier Series
+		- 7.2.7 Fourier Transform
+		- 7.2.8 Laplace Transform
+		- 7.2.9 Z-Transform
+	- 7.3 Digital Filters
+		- 7.3.1 FIR Filters (Finite Impulse Response)
+		- 7.3.2 IIR Filters (Infinite Impulse Response)
+		- 7.3.3 Filter Design Techniques (Windowing, Frequency Sampling, Bilinear Transform)
+		- 7.3.4 Filter Implementation
+		- 7.3.5 Filter Structure (Direct Form, Cascade Form, Parallel Form)
+		- 7.3.6 Quantization Effects
+		- 7.3.7 Adaptive Filters
+		- 7.3.8 Multirate Signal Processing
+8. COMMUNICATION SYSTEM
+	- 8.1 DSP Algorithms and Applications
+		- 8.1.1 Spectral Analysis
+		- 8.1.2 Digital Audio Processing
+		- 8.1.3 Image Processing
+		- 8.1.4 Speech Processing
+		- 8.1.5 Communication System
+		- 8.1.6 Control System
+		- 8.1.7 Biomedical Signal Processing
+		- 8.1.8 Radar Signal Processing
+	- 8.2 Modulation Techniques
+		- 8.2.1 Amplitude Modulation (AM)
+		- 8.2.2 Frequency Modulation (FM)
+		- 8.2.3 Phase Modulation (PM)
+		- 8.2.4 Digital Modulation (ASK, FSK, PSK, QAM)
+		- 8.2.5 Pulse Modulation (PAM, PWM, PPM)
+		- 8.2.6 Spread Spectrum Modulation
+		- 8.2.7 Orthogonal Frequency Division Multiplexing (OFDM)
+		- 8.2.8 Modulation Trade-offs
+	- 8.3 Transmission Media
+		- 8.3.1 Wired Communication (Twister Pair, Coaxial Cable, Fiber Optic Cable)
+		- 8.3.2 Wireless Communication (Radio Waves, Microwaves, Infrared)
+		- 8.3.3 Channel Characteristics (Attenuation, Nosie, Interference)
+		- 8.3.4 Multiplexing Techniques (FDM, TDM, CDM)
+		- 8.3.5 Error Detection and Correction
+		- 8.3.6 Network Topologies
+		- 8.3.7 Communication Protocols
+		- 8.3.8 Antenna Theory
+9. CONTROL SYSTEM
+	- 9.1 Communication System Design
+		- 9.1.1 Transmitter Design
+		- 9.1.2 Receiver Design
+		- 9.1.3 Channel Modeling
+		- 9.1.4 Link Budget Analysis
+		- 9.1.5 Signal Processing Techniques
+		- 9.1.6 Synchronization
+		- 9.1.7 Equalization
+		- 9.1.8 Communication System Performance Metrics
+	- 9.2 Control System Fundamentals
+		- 9.2.1 Open-Loop and Closed-Loop Control Systems
+		- 9.2.2 Feedback Control
+		- 9.2.3 Transfer Functions
+		- 9.2.4 Block Diagrams
+		- 9.2.5 Signal Flow Graphs
+		- 9.2.6 System Modeling
+		- 9.2.7 Stability Analysis
+		- 9.2.8 Time-Domain Analysis
+		- 9.2.9 Frequency-Domain Analysis
+	- 9.3 Control System Design
+		- 9.3.1 PID Control
+		- 9.3.2 Lead and Log Compensation
+		- 9.3.3 Root Locus Design
+		- 9.3.4 Bode Plot Design
+		- 9.3.5 State-Space Design
+		- 9.3.6 Digital Control
+		- 9.3.7 Optimal Control
+		- 9.3.8 Adaptive Control
+10. RF AND MICROWAVE ENGINEERING
+	- 10.1 Control System Application
+		- 10.1.1 Motor Control
+		- 10.1.2 Robotics
+		- 10.1.3 Process Control
+		- 10.1.4 Aerospace Control
+		- 10.1.5 Automotive Control
+		- 10.1.6 Power System Control
+		- 10.1.7 Biomedical Control
+		- 10.1.8 Economic Systems Control
+	- 10.2 Transmission Lines
+		- 10.2.1 Transmission Line Theory
+		- 10.2.2 Characteristic Impedance
+		- 10.2.3 Reflection Coefficient
+		- 10.2.4 Standing Wave Ratio (SWR)
+		- 10.2.5 Smith Chart
+		- 10.2.6 Impedance Matching
+		- 10.2.7 Transmission Line Components (Connectors, Adapters, Attenuators)
+		- 10.2.8 Microstrip Lines
+	- 10.3 Microwave Components
+		- 10.3.1 Waveguide
+		- 10.3.2 Cavity Resonators
+		- 10.3.3 Microwave Filters
+		- 10.3.4 Microwave Amplifiers
+		- 10.3.5 Microwave Oscillators
+		- 10.3.6 Mixers
+		- 10.3.7 Detectors
+		- 10.3.8 Circulators and Isolators
+		- 10.3.9 Couplers
+11. INSTRUMENTION AND MEASURMENT
+	- 11.1 Antenna Theory and Design
+		- 11.1.1 Antenna Parameters (Gain, Directivity, Radiation Pattern, Impedance, Bandwidth)
+		- 11.1.2 Antenna Types (Dipole, Monopole, Horn, Patch, Array)
+		- 11.1.3 Antenna Design Techniques
+		- 11.1.4 Antenna Measurement
+		- 11.1.5 Antenna Arrays
+		- 11.1.6 Smart Antennas
+		- 11.1.7 MIMO System
+		- 11.1.8 Antenna Applications
+	- 11.2 Measurement Fundamentals
+		- 11.2.1 Accuracy and Precision
+		- 11.2.2 Error Analysis
+		- 11.2.3 Calibration
+		- 11.2.4 Standards
+		- 11.2.5 Measurement Uncertainly
+		- 11.2.6 Statical Analysis
+		- 11.2.7 Signal-to-Noise Ratio (SNR)
+		- 11.2.8 Dynamic Range
+	- 11.3 Electronic Instruments
+		- 11.3.1 Multimeters
+		- 11.3.2 Oscilloscopes
+		- 11.3.3 Signal Generators
+		- 11.3.4 Spectrum Analyzers
+		- 11.3.5 Logic Analyzes
+		- 11.3.6 Network Analyzers
+		- 11.3.7 Impedance Analyzers
+		- 11.3.8 Power Meters
+12. PCB DESIGN AND FABRICATION
+	- 12.1 Sensors and Transducers
+		- 12.1.1 Temperature Sensors
+		- 12.1.2 Pressure Sensors
+		- 12.1.3 Strain Gauges
+		- 12.1.4 Flow Sensors
+		- 12.1.5 Position Sensors
+		- 12.1.6 Light Sensors
+		- 12.1.7 Chemical Sensors
+		- 12.1.8 Sensor Interfacing
+	- 12.2 PCB Design Fundamentals
+		- 12.2.1 PCB Layout Guidelines
+		- 12.2.2 Component Placement
+		- 12.2.3 Routing Techniques
+		- 12.2.4 Grounding Techniques
+		- 12.2.5 Power Distribution
+		- 12.2.6 Signal Integrity
+		- 12.2.7 Thermal Management
+		- 12.2.8 Design for Manufacturing (DFM)
+	- 12.3 PCB Design Software
+		- 12.3.1 Schematic Capture
+		- 12.3.2 PCB Layout
+		- 12.3.3 Gerber File Generation
+		- 12.3.4 Bill of Materials (BOM)
+		- 12.3.5 Simulation Tools
+		- 12.3.6 Autorouting
+		- 12.3.7 Design Rule Checking (DRC)
+		- 12.3.8 Version Control
+	- 12.4 PCB Fabrication
+		- 12.4.1 PCB Materia`ls
+		- 12.4.2 PCB Manufacturing Processes
+		- 12.4.3 Drilling
+		- 12.4.4 Plating
+		- 12.4.5 Etching
+		- 12.4.6 Soldermask
+		- 12.4.7 Silkscreen
+		- 12.4.8 Surface Finish
+		- 12.4.9 PCB Assemb`ly

@@ -1,0 +1,262 @@
+1. FOUNDATION CONCEPTS
+	- 1.1 Basic Circuit Theory
+		- 1.1.1 Voltage, Current, Resistance
+		- 1.1.2 Ohm’s Law
+		- 1.1.3 Kirchhoff’s Laws (KCL, KVL)
+		- 1.1.4 Serial and Parallel Circuits
+		- 1.1.5 Thevenin’s and Norton’s Theorems
+		- 1.1.6 Superposition Theorem
+		- 1.1.7 AC vs DC Circuits
+	- 1.2 Semiconductor Devices
+		- 1.2.1 Diode: Types and Applications
+		- 1.2.2 Bipolar Junction Transistors (BJTs)
+		- 1.2.3 Field-Effect Transistor (FETs): MOSFET, JFET
+		- 1.2.4 Thyristors and Triacs
+		- 1.2.5 Optoelectronic Devices: LEDs, Photodiodes
+		- 1.2.6 Integrated Circuits (ICs)
+2. ANALOG ELECTRONICS
+	- 2.1 Passive Components
+		- 2.1.1 Resistor: Types, Color Codes, Applications
+		- 2.1.2 Capacitors: Types, Characteristics, Applications
+		- 2.1.3 Inductors: Types, Characteristics, Applications
+		- 2.1.4 Transformers: Types, Operation, Applications
+		- 2.1.5 Relays and Switches
+		- 2.1.6 Fuses and Circuit Breakers
+	- 2.2 Amplifiers
+		- 2.2.1 BJT Amplifier Configuration (Common Emitter, Collector, Base)
+		- 2.2.2 FET Amplifiers Configurations (Common Source, Drain, Gate)
+		- 2.2.3 Operational Amplifiers (Op-Amps): Ideal Characteristics
+		- 2.2.4 Op-Amp Circuits: Inverting, Non-Inverting, Summing
+		- 2.2.5 Differential Amplifiers
+		- 2.2.6 Amplifiers Frequency Response
+	- 2.3 Filters
+		- 2.3.1 Passive Filters: RC, RL, LC
+		- 2.3.2 Active Filters: Op-Ams Based Filters
+		- 2.3.3 Filters Typres: Low-Pass, High-Pass, Band-Pass, Band-Stop
+		- 2.3.4 Filter Design and Analysis
+		- 2.3.5 Butterworth, Chebyshev, Bessel Filters
+		- 2.3.6 State-Variable Filters
+3. DIGITAL ELETRONICS
+	- 3.1 Oscilloscope
+		- 3.1.1 Oscillator Principles: Positive Feedback
+		- 3.1.2 RC Oscilloscope: Wien Bridge, Phase Shift
+		- 3.1.3 LC Oscilloscope: Colpitts Hartey
+		- 3.1.4 Crystal Oscilloscope
+		- 3.1.5 Relaxation Oscilloscope
+		- 3.1.6 Voltage-Controlled Oscillators (VCDs)
+	- 3.2 Logic Gates
+		- 3.2.1 Basic Logic Gates:AND, OR, NOT, NAND, XOR, XNOR
+		- 3.2.2 Boolean Algebra
+		- 3.2.3 DeMorgan’s Theorem
+		- 3.2.4 Logic Gate Implementation with Transistors
+		- 3.2.5 Logic Families: TTL, CMOS
+		- 3.2.6 Gate Propagation Delay
+	- 3.3 Combinational Logic
+		- 3.3.1 Adders and Subtractors
+		- 3.3.2 Multiplexers and Demultiplexers
+		- 3.3.3 Encoders and Decoders
+		- 3.3.4 Comparators
+		- 3.3.5 Code Converters
+		- 3.3.6 Parity Generators and Checkers
+4. MICROCONTROLLER AND EMBEDDED SYSTEMS
+	- 4.1 Sequential Logic
+		- 4.1.1 Flip-flop: SR, JK, D, T
+		- 4.1.2 Latches
+		- 4.1.3 Registers
+		- 4.1.4 Counters: Asynchronous, Synchronous
+		- 4.1.5 Shift Register
+		- 4.1.6 State Machines
+	- 4.2 Microcontroller Architecture
+		- 4.2.1 CPU, Memory, I/O
+		- 4.2.2 Harvard vs Neumann Architecture
+		- 4.2.3 Instruction Set Architecture (ISA)
+		- 4.2.4 Interrupts
+		- 4.2.5 Timers and Counters
+		- 4.2.6 Serial Communication Interface (UART, SPI, I2C)
+	- 4.3 Programming Microcontrollers
+		- 4.3.1 Assembly Language Programming
+		- 4.3.2 C/C++ Programming for Microcontrollers
+		- 4.3.3 Integrated Development Environment (IDEs)
+		- 4.3.4 Debugging Techniques
+		- 4.3.5 Firmware Development
+		- 4.3.6 Real-Time Operating System (RTOS)
+5. POWER ELECTRONICS
+	- 5.1 Interfacing
+		- 5.1.1 Analog-to-Digital Converters (ADCs)
+		- 5.1.2 Digital-to-Analog Converters (DACs)
+		- 5.1.3 Sensor Interfacing
+		- 5.1.4 Actuator Control
+		- 5.1.5 Display Interfacing (LCD, LED)
+		- 5.1.6 Communication Protocols (USB, Ethernet, Bluetooth, WiFi)
+	- 5.2 Power Devices
+		- 5.2.1 Power Diodes
+		- 5.2.2 Power Transistors (MOSFETs, IGBTs)
+		- 5.2.3 Thyristors
+		- 5.2.4 Gate Turn-Off Thyristors (GTOs)
+		- 5.2.5 Silicon Carbide (SIC) and Gallium Nitride (GaN) Devices
+		- 5.2.6 Device Characteristics and Selection
+	- 5.3 Power Converters
+		- 5.3.1 AC-DC Converters (Rectifiers)
+		- 5.3.2 DC-Dc Converters (Buck, Boost, Buck-Boost)
+		- 5.3.3 DC-AC Converters (Inverters)
+		- 5.3.4 AC-AC Converters (Cycloconverters)
+		- 5.3.5 Converter Topologies and Control Techniques
+		- 5.3.6 Power-Factor Correction (PFC)
+6. SIGNAL PROCESSING
+	- 6.1 Power Management
+		- 6.1.1 Linear Regulators
+		- 6.1.2 Switching Regulators
+		- 6.1.3 Battery Management System (BMS)
+		- 6.1.4 Power Supplies
+		- 6.1.5 Energy Harvesting
+		- 6.1.6 Wireless Power Transfer
+	- 6.2 Signal Analysis
+		- 6.2.1 Time Domain Analysis
+		- 6.2.2 Frequency Domain Analysis (Fourier Transform)
+		- 6.2.3 Signal Representation
+		- 6.2.4 Signal Types: Analog, Digital, Discrete-Time
+		- 6.2.5 Sampling Theorem
+		- 6.2.6 Signal-to-Noise Ratio (SNR)
+	- 6.3 Digital Signal Processing (DSP)
+		- 6.3.1 Digital Filters: FIR, IIR
+		- 6.3.2 Convolution
+		- 6.3.3 Correlation
+		- 6.3.4 Discrete Fourier Transform (DFT)
+		- 6.3.5 Fast Fourier Transform (FFT)
+		- 6.3.6 DSP Processors
+7. COMMUNICATION SYSTEMS
+	- 7.1 Image Processing
+		- 7.1.1 Image Acquisition
+		- 7.1.2 Image Enhancement
+		- 7.1.3 Image Segmentation
+		- 7.1.4 Feature Extraction
+		- 7.1.5 Image Compression
+		- 7.1.6 Image Recognition
+	- 7.2 Modulation Techniques
+		- 7.2.1 Amplitude Modulation (AM)
+		- 7.2.2 Frequency Modulation (FM)
+		- 7.2.3 Phase Modulation (PM)
+		- 7.2.4 Digital Modulation: ASK, FSK, PSK, QAM
+		- 7.2.5 Pulse Modulation: PAM, PWM, PPM
+		- 7.2.6 Spread Spectrum Techniques
+	- 7.3 Transmission Media
+		- 7.3.1 Wired Communications: Coaxial Cable, Twisted Cable, Fiber Optics
+		- 7.3.2 Wireless Communication: Radio Waves, Microwave, Infrared
+		- 7.3.3 Channel Characteristics: Noise, Attenuation, Distortion
+		- 7.3.4 Multiplexing Techniques: FDM, TDM, CDM
+		- 7.3.5 Error Detection and Correction Codes
+8. SENSORS AND TRANSDUCERS
+	- 8.1 Communication Protocols
+		- 8.1.1 Network Protocols: TCP/IP, HTTP, FTP
+		- 8.1.2 Wireless Protocols: Bluetooth, Wi-Fi, Zigbee
+		- 8.1.3 Cellular Communication: GSM, CDMA, LTE, 5G
+		- 8.1.4 Satellite Communication
+		- 8.1.5 Optical Communication
+	- 8.2 Sensor Types
+		- 8.2.1 Temperature Sensors: Thermistors, Thermocouples, RTDs
+		- 8.2.2 Pressure Sensors: Strain Gauge, Piezoelectric Sensors
+		- 8.2.3 Light Sensors: Photodiodes, Phototransistors, LDRs
+		- 8.2.4 Position Sensor: Encoders, Potentiometers, LVDTs
+		- 8.2.5 Motion Sensor: Accelerometers, Gyroscopes
+		- 8.2.6 Chemical Sensor: Gas Sensor, pH Sensors
+	- 8.3 Sensor Interfacing
+		- 8.3.1 Signal Conditioning Circuits
+		- 8.3.2 Amplification
+		- 8.3.3 Filtering
+		- 8.3.4 Calibration
+		- 8.3.5 Linearization
+		- 8.3.6 Noise Reduction
+9. PCB DESIGN AND FABRICATION
+	- 9.1 Applications
+		- 9.1.1 Environmental Monitoring
+		- 9.1.2 Industrial Automation
+		- 9.1.3 Robotics
+		- 9.1.4 Medical Devices
+		- 9.1.5 Automotive System
+		- 9.1.6 Consumer Electronics
+	- 9.2 PCB Design Software
+		- 9.2.1 Schematic Capture
+		- 9.2.2 PCB Layout
+		- 9.2.3 Component Placement
+		- 9.2.4 Routing
+		- 9.2.5 Design Rule Check (DRC)
+		- 9.2.6 Gerber File Generation
+	- 9.3 PCB Fabrication Process
+		- 9.3.1 PCB Materials
+		- 9.3.2 Etching
+		- 9.3.3 Drilling
+		- 9.3.4 Plating
+		- 9.3.5 Soldermask Application
+		- 9.3.6 Silkscreen Printing
+10. TESTING AND MEASUREMENT
+	- 10.1 PCB Assembly
+		- 10.1.1 Component Mounting (SMD, Through-Hole)
+		- 10.1.2 Soldering Techniques
+		- 10.1.3 Reflow Soldering
+		- 10.1.4 Wave Soldering
+		- 10.1.5 Inspection and Testing
+	- 10.2 Measurement Instruments
+		- 10.2.1 Multimeters
+		- 10.2.2 Oscilloscope
+		- 10.2.3 Function Generators
+		- 10.2.4 Logic Analyzers
+		- 10.2.5 Spectrum Analyzers
+		- 10.2.6 Network Analyzers
+	- 10.3 Measurement Techniques
+		- 10.3.1 Voltage Measurement
+		- 10.3.2 Current Measurement
+		- 10.3.3 Resistance Measurement
+		- 10.3.4 Frequency Measurement
+		- 10.3.5 Time Domain Analyzers
+		- 10.3.6 Frequency Domain Analyzers
+11. ADVANCED TOPICS
+	- 11.1 Troubleshooting
+		- 11.1.1 Identifying Faults
+		- 11.1.2 Component Testing
+		- 11.1.3 Signal Trancing
+		- 11.1.4 Using Test Equipment
+		- 11.1.5 Repair Techniques
+		- 11.1.6 Documentation
+	- 11.2 RF and Microwave Engineering
+		- 11.2.1 Transmission Lines
+		- 11.2.2 Antennas
+		- 11.2.3 Waveguides
+		- 11.2.4 Microwave Devices
+		- 11.2.5 RF Amplifiers
+		- 11.2.6 RF Filters
+	- 11.3 Optoelectronics
+		- 11.3.1 Lasers
+		- 11.3.2 Optical Fibers
+		- 11.3.3 Photonic Devices
+		- 11.3.4 Optical Communication Systems
+		- 11.3.5 Display
+		- 11.3.6 Imaging Systems
+12. PROJECT-BASED LEARNIING
+	- 12.1 Nanotechnology
+		- 12.1.1 Nanomaterials
+		- 12.1.2 Nanodevices
+		- 12.1.3 Nanoelectroics
+		- 12.1.4 Nanosensors
+		- 12.1.5 Nanomanufacturing
+		- 12.1.6 Applications of Nanotechnology
+	- 12.2 Project Selection
+		- 12.2.1 Defining Project Goals
+		- 12.2.2 Identifying Required Components
+		- 12.2.3 Creating a Project Plan
+		- 12.2.4 Budgeting
+		- 12.2.5 Time Management
+		- 12.2.6 Risk Assessment
+	- 12.3 Project Implementation
+		- 12.3.1 Circuit Design
+		- 12.3.2 PCB Design
+		- 12.3.3 Software Development
+		- 12.3.4 Hardware Assembly
+		- 12.3.5 Testing and Debugging
+		- 12.3.6 Documentation
+	- 12.4 Project Presentation
+		- 12.4.1 Report Wiring
+		- 12.4.2 Presentation Skills
+		- 12.4.3 Demonstrating Functionality
+		- 12.4.4 Answering Questions
+		- 12.4.5 Showcasing Results
+		- 12.4.6 Future Improvements
