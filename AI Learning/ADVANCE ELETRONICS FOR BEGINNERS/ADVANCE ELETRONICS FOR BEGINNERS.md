@@ -1,5 +1,5 @@
 1. **FOUNDATION CONCEPTS**
-	- [[1.1 Basic Circuit Theory]]
+	- [[AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1 Basic Circuit Theory]]
 	- [[1.2 Semiconductor Devices]]
 2. **ANALOG ELECTRONICS**
 	- [[2.1 Passive Components]]
