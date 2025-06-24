@@ -77,27 +77,27 @@
 		- 4.3.5 Using Fail2ban
 		- 4.3.6 SSH Tuning
 5. NETWORKING
-	5.1 User security
-		5.1.1 Password Policies
-		5.1.2 User Two-Factor Authentication (2FA)
-		5.1.3 Monitoring User Activity
-		5.1.4 Auditing
-		5.1.5 Intrusion Detection System (IDS)
-		5.1.6 Security Information and Event Management (SIEM)
-	5.2 Advance Network Configuration
-		5.2.1 Bridging
-		5.2.2 Bonding
-		5.2.3 vLANs
-		5.2.4 Routing
-		5.2.5 VPNs (openVPN, WireGuard)
-		5.2.6 Network Namespace
-	5.3 DNS Server
-		5.3.1 Installing and configuration a DNS server (Bind, dnsmasq)
-		5.3.2 Configuration DNS Zones
-		5.3.3 DNS Security (DNSEEC)
-		5.3.4 Caching DNS Server
-		5.3.5 Reverse DNS Lookup
-		5.3.6 Dynamic DNS
+	- 5.1 User security
+		- 5.1.1 Password Policies
+		- 5.1.2 User Two-Factor Authentication (2FA)
+		- 5.1.3 Monitoring User Activity
+		- 5.1.4 Auditing
+		- 5.1.5 Intrusion Detection System (IDS)
+		- 5.1.6 Security Information and Event Management (SIEM)
+	- 5.2 Advance Network Configuration
+		- 5.2.1 Bridging
+		- 5.2.2 Bonding
+		- 5.2.3 vLANs
+		- 5.2.4 Routing
+		- 5.2.5 VPNs (openVPN, WireGuard)
+		- 5.2.6 Network Namespace
+	- 5.3 DNS Server
+		- 5.3.1 Installing and configuration a DNS server (Bind, dnsmasq)
+		- 5.3.2 Configuration DNS Zones
+		- 5.3.3 DNS Security (DNSEEC)
+		- 5.3.4 Caching DNS Server
+		- 5.3.5 Reverse DNS Lookup
+		- 5.3.6 Dynamic DNS
 6. AUTOMATION AND SCRIPTING
 	- 6.1 DHCP Server
 		- 6.1.1 Installing and configuration a DHCP server (dynamic, ISC DHCP)

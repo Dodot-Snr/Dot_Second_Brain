@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolder",
       "LiALargeSmall",
       "LiAlignHorizontalDistributeCenter",
       "LiAlarmClockCheck",
@@ -6791,5 +6792,25 @@
   "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.6 Analyzing Crash Dumps.md": "RiFilePaperFill",
   "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.5 Using Debugging Tools (Strace, Itrace).md": "RiFilePaperFill",
   "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.4 Troubleshooting Performance Issues.md": "RiFilePaperFill",
-  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.3 Troubleshooting Network Issues.md": "RiFilePaperFill"
+  "AI Learning/LINUX MASTERY⁚ A BEGINNER’S GUIDE/007 ADVANCE TOPICS/7.4.3 Troubleshooting Network Issues.md": "RiFilePaperFill",
+  "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/ADVANCED ELETRONICS MASTERY": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/ELECTRONIS MASTERY": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/RASPI ARCH LINUX MASTERY": {
+    "iconName": "LiFolder",
+    "iconColor": "#00ffff"
+  },
+  "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/ADVANCE ELETRONICS FOR BEGINNERS.md": "FasTableList",
+  "AI Learning/ADVANCED ELETRONICS MASTERY/ADVANCED ELETRONICS MASTERY.md": "FasTableList",
+  "AI Learning/ELECTRONIS MASTERY/ELECTRONIS MASTERY.md": "FasTableList",
+  "AI Learning/RASPI ARCH LINUX MASTERY/RASPI ARCH LINUX MASTERY.md": "FasTableList"
 }
