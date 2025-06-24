@@ -1,8 +1,8 @@
 1. **FUNDAMENTALS**
-	- [[AI Learning/ADVANCED ELETRONICS MASTERY/001 FUNDAMENTALS/1.1 Basic Circuit Theory]]
+	- [[001 FUNDAMENTALS/1.1 Basic Circuit Theory]]
 	- [[1.2 Electronic Components]]
 2. **ANALOG ELETRONICS**
-	- [[2.1 AC Circuit Analysis]]
+	- [[AI Learning/ADVANCED ELETRONICS MASTERY/002 ANALOG ELETRONICS/2.1 AC Circuit Analysis]]
 	- [[2.2 Amplifier Design]]
 	- [[2.3 Analog Filters]]
 3. **DIGITAL ELECTRONICS**
