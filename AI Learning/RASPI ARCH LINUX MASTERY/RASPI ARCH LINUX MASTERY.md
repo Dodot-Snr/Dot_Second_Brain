@@ -1,215 +1,41 @@
 
-1. INSTALLATION AND INITIAL SETUP
-	- 1.1 Preparing the SD card
-		- 1.1.1 Downloading the Arch Linux ARM Image
-		- 1.1.2 Verifying the Checksum
-		- 1.1.3 Writing Image to the SD Card
-		- 1.1.4 SD card Partitioning (Optional)
-	- 1.2 Booting and Initial Configuration
-		- 1.2.1 Booting the Raspberry Pi
-		- 1.2.2 Connecting via Serial Console (Optional)
-		- 1.2.3 Initial Login and Password Change
-		- 1.2.4 Setting the Timezone
-		- 1.2.5 Configuration The Locale
-		- 1.2.6 Setting the Hostname
-2. SYSTEM ADMINISTRATION
-	- 2.1 Network Configuration
-		- 2.1.1 Configuration Wired Network (Ethernet)
-		- 2.1.2 Configuration Wireless Network (WiFi)
-		- 2.1.3 Setting a Static IP Address
-		- 2.1.4 Configuration DNS
-		- 2.1.5 Using NetwokManager
-	- 2.2 Package Management with pacman
-		- 2.2.1 Pacman Basics: Installation, Removal, Updates
-		- 2.2.2 Searching for Package
-		- 2.2.3 Resolving Dependencies
-		- 2.2.4 Using Pacman Hooks
-		- 2.2.5 Managing Package Repositories
-		- 2.2.6 Building Package with ABS (Arch Build System)
-	- 2.3 User and Group management
-		- 2.3.1 Creating User Accounts
-		- 2.3.2 Modifying User Accounts
-		- 2.3.3 Deleting User Accounts
-		- 2.3.4 Managing Group
-		- 2.3.5 Setting User Privileges (sudo)
-		- 2.3.6 Understanding User IDs (UIDs) and Group IDs (GIDs)
-3. CORE SYSTEM CONFIGURATION
-	- 3.1 Systemd
-		- 3.1.1 Understanding Systemd Units
-		- 3.1.2 Managing services (Starting, Stopping, Restoring)
-		- 3.1.3 Enabling and Disabling Services
-		- 3.1.4 Creating Custom Systemd Units
-		- 3.1.5 Analyzing Systemd Logs (Journalctl)
-		- 3.1.6 Systemd Timers
-	- 3.2 Boot Process
-		- 3.2.1 Understanding the Boot Process
-		- 3.2.2 Configuration the Bootloader (U-Boot)
-		- 3.2.3 Kernel Configuration
-		- 3.2.4 Initramfs
-		- 3.2.5 Boot Parameters
-	- 3.3 File System Management
-		- 3.3.1 Understanding File System Types (ext4, Btrs, etc)
-		- 3.3.2 Creating and Mounting File system
-		- 3.3.3 Managing Disk Space
-		- 3.3.4 Using Logical Volume Management (LVM)
-		- 3.3.5 File system Optimization
-		- 3.3.6 Disk Quotas
-4. SECURITY
-	- 4.1 Kernel management
-		- 4.1.1 Kernel configuration
-		- 4.1.2 Installing custom kernels
-		- 4.1.3 Kernel modules
-		- 4.1.4 Device tree overlays
-		- 4.1.5 Kernel parameters
-		- 4.1.6 Uploading the kernel
-	- 4.2 Firewall configuration
-		- 4.2.1 Using iptables
-		- 4.2.2 Using nftable
-		- 4.2.3 Configuration firewall rules
-		- 4.2.4 Setting default policies
-		- 4.2.5 Port forwarding
-		- 4.2.6 Stateful firewall
-	- 4.3 SSH hardening
-		- 4.3.1 Disabling Password Authentication
-		- 4.3.2 Using SSH Keys
-		- 4.3.3 Changing the SSH Port
-		- 4.3.4 Limiting User Access
-		- 4.3.5 Using Fail2ban
-		- 4.3.6 SSH Tuning
-5. NETWORKING
-	- 5.1 User security
-		- 5.1.1 Password Policies
-		- 5.1.2 User Two-Factor Authentication (2FA)
-		- 5.1.3 Monitoring User Activity
-		- 5.1.4 Auditing
-		- 5.1.5 Intrusion Detection System (IDS)
-		- 5.1.6 Security Information and Event Management (SIEM)
-	- 5.2 Advance Network Configuration
-		- 5.2.1 Bridging
-		- 5.2.2 Bonding
-		- 5.2.3 vLANs
-		- 5.2.4 Routing
-		- 5.2.5 VPNs (openVPN, WireGuard)
-		- 5.2.6 Network Namespace
-	- 5.3 DNS Server
-		- 5.3.1 Installing and configuration a DNS server (Bind, dnsmasq)
-		- 5.3.2 Configuration DNS Zones
-		- 5.3.3 DNS Security (DNSEEC)
-		- 5.3.4 Caching DNS Server
-		- 5.3.5 Reverse DNS Lookup
-		- 5.3.6 Dynamic DNS
-6. AUTOMATION AND SCRIPTING
-	- 6.1 DHCP Server
-		- 6.1.1 Installing and configuration a DHCP server (dynamic, ISC DHCP)
-		- 6.1.2 DHCP Scopes
-		- 6.1.3 Static Leases
-		- 6.1.4 DHCP Option
-		- 6.1.5 DHCP Relay
-		- 6.1.6 PXE Boot
-	- 6.2 Shell Scripting
-		- 6.2.1 Bash Scripting Basics
-		- 6.2.2 Variables and Data Types
-		- 6.2.3 Control Structure (if, for, while)
-		- 6.2.4 Functions
-		- 6.2.5 Command-line Argument
-		- 6.2.6 Regular Expressions
-	- 6.3 System Automation
-		- 6.3.1 Using Cron
-		- 6.3.2 Using Anacron
-		- 6.3.3 Automating Tasks with Scripts
-		- 6.3.4 System Monitoring Scripts
-		- 6.3.5 Log Rotation
-		- 6.3.6 Backup Scripts
-7. DESKTOP ENVIROMENT (OPTION)
-	- 7.1 Configuration Management
-		- 7.1.1 Ansible
-		- 7.1.2 Puppet
-		- 7.1.3 Chef
-		- 7.1.4 SaltStack
-		- 7.1.5 Using Configuration Management Tools for Automation
-		- 7.1.6 Infrastructure as Code (IaC)
-	- 7.2 Installing a Desktop Environment
-		- 7.2.1 Choosing a Desktop Environment (XFCE, LXDE, GNOME, KDE)
-		- 7.2.2 Installing the Desktop Environment
-		- 7.2.3 Configuration the Display Manager (LightDM, SDDM)
-		- 7.2.4 Setting up the Desktop Environment
-	- 7.3 Window Managers
-		- 7.3.1 Installing a window manager (i3, Awesom, openbox)
-		- 7.3.2 Configuring the window manager
-		- 7.3.3 Customizing the window manager
-		- 7.3.4 Using Compositors
-		- 7.3.5 Keyboarding Shortcuts
-		- 7.3.6 Tilting Window Management
-8. SAVING CONFIGURATION WITH DOTFILES
-	- 8.1 Display Configuration
-		- 8.1.1 Configuration Xorg
-		- 8.1.2 Using xrandr
-		- 8.1.3 Multi-Monitor Setup
-		- 8.1.4 Desktop Scaling
-		- 8.1.5 Remote Desktop Access (VNC, RDP)
-		- 8.1.6 Wayland
-	- 8.2 Dotfiles Management
-		- 8.2.1 Understanding Dotfiles
-		- 8.2.2 Creating a Dotfiles Repository (Git)
-		- 8.2.3 Managing Dotfiles with a Version Control System
-		- 8.2.4 Using Dotfiles Managers (Dotbot, Staw)
-		- 8.2.5 Symlinking Dotfiles
-		- 8.2.6 Keeping Dotfiles Organized
-	- 8.3 Customizing Dotfiles
-		- 8.3.1 Shell Configuration (Bash, Zsh)
-		- 8.3.2 Editor Configuration (Vim, Emacs)
-		- 8.3.3 Terminal Configuration
-		- 8.3.4 GUI Application Configuration
-		- 8.3.5 Custom Scripts and Aliases
-		- 8.3.6 Sharing Dotfiles
-9. ADVANCE TOPICS
-	- 9.1 Backup and restore
-		- 9.1.1 Backing up Dotfiles
-		- 9.1.2 Restoring Dotfiles
-		- 9.1.3 Automating Dotfiles Backup and Restore
-		- 9.1.4 Using Cloud Storage for Dotfiles
-		- 9.1.5 Version Control Best Practice
-		- 9.1.6 Disaster Recovery
-	- 9.2 Containerization
-		- 9.2.1 Docker
-		- 9.2.2 Podman
-		- 9.2.3 LXC/LCD
-		- 9.2.4 Container Orchestration (Kubernetes, Docker Swarm)
-		- 9.2.5 Building and Managing Containers
-		- 9.2.6 Container Networking
-	- 9.3 Monitoring and Logging
-		- 9.3.1 System Monitoring Tools (htop, glances)
-		- 9.3.2 Log Management (rsyslog, journald)
-		- 9.3.3 Centralized Logging (ELK Stack, Graylog)
-		- 9.3.4 Performance Monitoring
-		- 9.3.5 Altering
-		- 9.3.6 Grafana
-10. TROUBLESHOOTING      
-	- 10.1 Performance Tuning
-		- 10.1.1 CPU Optimization
-		- 10.1.2 Memory Optimization
-		- 10.1.3 Disk I/O Optimization
-		- 10.1.4 Network Optimization
-		- 10.1.5 Kernel Tuning
-		- 10.1.6 Identifying Bottlenecks
-	- 10.2 Boot Issues
-		- 10.2.1 Diagnosing Boot Problems
-		- 10.2.2 Recovering from Boot Failure
-		- 10.2.3 Kernel Panics
-		- 10.2.4 Initramfs Issues
-		- 10.2.5 Bootloader Problems
-		- 10.2.6 Hardware Issues
-	- 10.3 Networking Issues
-		- 10.3.1 Diagnosing Network Connectivity Problems
-		- 10.3.2 Troubleshooting DNS Issues
-		- 10.3.3 Troubleshooting DHCP Issues
-		- 10.3.4 Firewall Issues
-		- 10.3.5 Routing Problems
-		- 10.3.6 VPN Issues
-	- 10.4 System Issues
-		- 10.4.1 Diagnosing System Errors
-		- 10.4.2 Troubleshooting Package Management Issues
-		- 10.4.3 Resolving Dependency Conflicts
-		- 10.4.4 Fixing File System Errors
-		- 10.4.5 Recovering from System Crashes
-		- 10.4.6 Analyzing System Logs 
+1. **INSTALLATION AND INITIAL SETUP**
+	- [[1.1 Preparing the SD card]]
+	- [[1.2 Booting and Initial Configuration]]
+2. **SYSTEM ADMINISTRATION**
+	- [[2.1 Network Configuration]]
+	- [[2.2 Package Management with pacman]]
+	- [[2.3 User and Group management]]
+3. **CORE SYSTEM CONFIGURATION**
+	- [[3.1 Systemd]]
+	- [[3.2 Boot Process]]
+	- [[3.3 File System Management]]
+4. **SECURITY**
+	- [[4.1 Kernel management]]
+	- [[4.2 Firewall configuration]]
+	- [[4.3 SSH hardening]]
+5. **NETWORKING**
+	- [[5.1 User security]]
+	- [[5.2 Advance Network Configuration]]
+	- [[5.3 DNS Server]]
+6. **AUTOMATION AND SCRIPTING**
+	- [[6.1 DHCP Server]]
+	- [[6.2 Shell Scripting]]
+	- [[6.3 System Automation]]
+7. **DESKTOP ENVIROMENT (OPTION)**
+	- [[7.1 Configuration Management]]
+	- [[7.2 Installing a Desktop Environment]]
+	- [[7.3 Window Managers]]
+8. **SAVING CONFIGURATION WITH DOTFILES**
+	- [[8.1 Display Configuration]]
+	- [[8.2 Dotfiles Management]]
+	- [[8.3 Customizing Dotfiles]]
+9. **ADVANCE TOPICS**
+	- [[9.1 Backup and restore]]
+	- [[9.2 Containerization]]
+	- [[9.3 Monitoring and Logging]]
+10. **TROUBLESHOOTING**
+	- [[10.1 Performance Tuning]]
+	- [[10.2 Boot Issues]]
+	- [[10.3 Networking Issues]]
+	- [[10.4 System Issues]]
