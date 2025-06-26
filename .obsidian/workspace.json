@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e2b6c14930597b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9be3852953fc4a36",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "AI Learning/ELECTRONIS MASTERY/003 ANALOG CIRCUIT DESIGN/3.2.2 OP-Amp Configurations (Inverting, Non-Inverting, Voltage Follower).md",
-                "bFile": "AI Learning/ELECTRONIS MASTERY/003 ANALOG CIRCUIT DESIGN/3.2.2 OP-Amp Configurations (Inverting, Non-Inverting, Voltage Follower).md",
-                "aRef": ""
+                "file": "DOT_HOME.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 3.2.2 OP-Amp Configurations (Inverting, Non-Inverting, Voltage Follower)"
+              "icon": "lucide-file",
+              "title": "DOT_HOME"
             }
           }
         ]
@@ -190,8 +190,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9be3852953fc4a36",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "DOT_HOME.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.6 Analyzing System Logs.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.5 Recovering from System Crashes.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.4 Fixing File System Errors.md",
@@ -217,7 +218,6 @@
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.4 Network Optimization.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.5 Kernel Tuning.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.3 Disk I⁄O Optimization.md",
-    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.2 Memory Optimization.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING",
     "AI Learning/RASPI ARCH LINUX MASTERY/009 ADVANCE TOPICS",
     "AI Learning/RASPI ARCH LINUX MASTERY/008 SAVING CONFIGURATION WITH DOTFILES",
