@@ -141,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "DOT_HOME.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for DOT_HOME"
             }
           },
           {
@@ -190,7 +192,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9ffe59106387546e",
   "lastOpenFiles": [
     "DOT_HOME.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.6 Analyzing System Logs.md",
