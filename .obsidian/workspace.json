@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f3e2b6c14930597b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9be3852953fc4a36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.2.6 Integrated Circuits (ICs).md",
-                "mode": "source",
-                "source": false
+                "aFile": "AI Learning/ELECTRONIS MASTERY/003 ANALOG CIRCUIT DESIGN/3.2.2 OP-Amp Configurations (Inverting, Non-Inverting, Voltage Follower).md",
+                "bFile": "AI Learning/ELECTRONIS MASTERY/003 ANALOG CIRCUIT DESIGN/3.2.2 OP-Amp Configurations (Inverting, Non-Inverting, Voltage Follower).md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1.2.6 Integrated Circuits (ICs)"
+              "icon": "diff",
+              "title": "Diff: 3.2.2 OP-Amp Configurations (Inverting, Non-Inverting, Voltage Follower)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 828.8000000000001
   },
   "right": {
     "id": "e7bbb0209364c9bd",
@@ -190,34 +190,34 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9be3852953fc4a36",
   "lastOpenFiles": [
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.2.5 Optoelectronic Devices⁚ LEDs, Photodiodes.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.2.4 Thyristors and Triacs.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.2.3 Field-Effect Transistor (FETs)⁚ MOSFET, JFET.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.2.2 Bipolar Junction Transistors (BJTs).md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.2.1 Diode⁚ Types and Applications.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.2 Semiconductor Devices.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1.7 AC vs DC Circuits.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1.6 Superposition Theorem.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1.5 Thevenin’s and Norton’s Theorems.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1.4 Serial and Parallel Circuits.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1.2 Ohm’s Law.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1.3 Kirchhoff’s Laws (KCL, KVL).md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1.1 Voltage, Current, Resistance.md",
-    "AI Learning/ADVANCE ELETRONICS FOR BEGINNERS/001 FOUNDATION CONCEPTS/1.1 Basic Circuit Theory.md",
-    "Untitled Kanban.md",
-    "DOT_HOME.md",
-    "AI Learning/RASPI ARCH LINUX MASTERY/RASPI ARCH LINUX MASTERY.md",
-    "AI Learning/AI ROADMAP.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.6 Analyzing System Logs.md",
-    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4 System Issues.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.5 Recovering from System Crashes.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.4 Fixing File System Errors.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.3 Resolving Dependency Conflicts.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.2 Troubleshooting Package Management Issues.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.1 Diagnosing System Errors.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4 System Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.3.6 VPN Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.3.5 Routing Problems.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.3.4 Firewall Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.3.3 Troubleshooting DHCP Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.3.2 Troubleshooting DNS Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.3.1 Diagnosing Network Connectivity Problems.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.3 Networking Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.2.6 Hardware Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.2.5 Bootloader Problems.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.2.4 Initramfs Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.2.3 Kernel Panics.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.2.2 Recovering from Boot Failure.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.2.1 Diagnosing Boot Problems.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.2 Boot Issues.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.6 Identifying Bottlenecks.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.4 Network Optimization.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.5 Kernel Tuning.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.3 Disk I⁄O Optimization.md",
+    "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.1.2 Memory Optimization.md",
     "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING",
     "AI Learning/RASPI ARCH LINUX MASTERY/009 ADVANCE TOPICS",
     "AI Learning/RASPI ARCH LINUX MASTERY/008 SAVING CONFIGURATION WITH DOTFILES",

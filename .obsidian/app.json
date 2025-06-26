@@ -7,5 +7,5 @@
   "readableLineLength": true,
   "showInlineTitle": false,
   "livePreview": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }
