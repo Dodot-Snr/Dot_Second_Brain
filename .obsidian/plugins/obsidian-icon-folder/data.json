@@ -6,18 +6,19 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFilePaperFill",
+      "FasBook",
+      "TiBooks",
+      "RaBook",
       "FasBookOpenReader",
       "TiLayoutKanban",
       "LiFolder",
       "LiALargeSmall",
       "LiAlignHorizontalDistributeCenter",
       "LiAlarmClockCheck",
-      "LiActivitySquare",
-      "RiFilePaperFill",
-      "📄",
-      "RiBookReadLine"
+      "LiActivitySquare"
     ],
-    "recentlyUsedIconsSize": 10,
+    "recentlyUsedIconsSize": 25,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -11867,5 +11868,25 @@
   "Self-Reading": {
     "iconName": "FasBookOpenReader",
     "iconColor": "#00ff00"
+  },
+  "Self-Reading/WORSHIP AND THE PRAYERS": {
+    "iconName": "TiBooks",
+    "iconColor": "#00ffff"
+  },
+  "Self-Reading/WORSHIP AND THE PRAYERS/WORSHIP AND THE PRAYERS.md": {
+    "iconName": "FasBook",
+    "iconColor": "#ffff00"
+  },
+  "Self-Reading/WORSHIP AND THE PRAYERS/001 Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "Self-Reading/WORSHIP AND THE PRAYERS/002 The Fourth Word - The Prescribed Prayers.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
+  },
+  "Self-Reading/WORSHIP AND THE PRAYERS/003 The Ninth Word.md": {
+    "iconName": "RiFilePaperFill",
+    "iconColor": "#ffff00"
   }
 }

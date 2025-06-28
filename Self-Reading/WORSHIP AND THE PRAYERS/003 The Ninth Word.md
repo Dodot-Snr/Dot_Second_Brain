@@ -25,4 +25,3 @@ Just as man is an example in miniature of the greater world and Sura al-Fatiha a
 
 ### Fourth Point
 
-asdkfhjas;lckvjapserui vawpsuopaosdfvhna[wsovhapsxcvhnapsodvhans[dovascpvZXC]]

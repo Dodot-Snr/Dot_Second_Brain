@@ -21,7 +21,7 @@ E-mail: info@sozler.com.tr
 
 ### Contents
 
-- [[Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇]]
-	- [[Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇#To Conclude|To Conclude]]
-- [[The Fourth Word - The Prescribed Prayers]]
-- [[The Ninth Word]]
+- [[001 Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇]]
+	- [[001 Who was Bediuzzaman Said Nursi And what is The Risale-i Nur⁇#To Conclude|To Conclude]]
+- [[002 The Fourth Word - The Prescribed Prayers]]
+- [[003 The Ninth Word]]
