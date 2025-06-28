@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBookOpenReader",
+      "TiLayoutKanban",
       "LiFolder",
       "LiALargeSmall",
       "LiAlignHorizontalDistributeCenter",
@@ -13,9 +15,7 @@
       "LiActivitySquare",
       "RiFilePaperFill",
       "📄",
-      "RiBookReadLine",
-      "LiFolderTree",
-      "FasTableList"
+      "RiBookReadLine"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -11859,5 +11859,13 @@
     "iconName": "RiFilePaperFill",
     "iconColor": "#e1e100"
   },
-  "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.6 Analyzing System Logs.md": "RiFilePaperFill"
+  "AI Learning/RASPI ARCH LINUX MASTERY/010 TROUBLESHOOTING/10.4.6 Analyzing System Logs.md": "RiFilePaperFill",
+  "AI Learning/AI Learning Kanban.md": {
+    "iconName": "TiLayoutKanban",
+    "iconColor": "#00ffff"
+  },
+  "Self-Reading": {
+    "iconName": "FasBookOpenReader",
+    "iconColor": "#00ff00"
+  }
 }
